@@ -9,6 +9,9 @@
 
 To run this tool, simply upload an audio file of your choice (any length) and click on submit. You may also record your own audio file by clicking on the Microphone icon.
 
+<p align="center">
+  <img src="preview.png" width="900">
+</p>
 
 This will take some time if your audio file is a bit long. For example an hour long file will take around 255 seconds.
 After running, the full transcript will be displayed with the "(Laughing)" notation whenever there is a laugh in the audio file. You can check it by going back to those timestamps in the audio file on the left side.
@@ -16,12 +19,13 @@ An option to download the transcript is also available, you just need to click o
 
 
 
-
-
 ## Documentation
 
 The laughter detection tool is a combination of 2 main models with a lot of processing in between. Here is a diagram that explains the full process:
 
+<p align="center">
+  <img src="diagram.png" width="300">
+</p>
 
 The first model used is Whisper which is a pre-trained model by OpenAI. It was trained on 680k hours of labeled data and it comes in 7 sizes (tiny, base, small, medium, large, large-v2, large-v3). It’s an automatic speech recognition/speech translation model that can be used to generate the transcription of an audio file. OpenAI did not specify the exact hardware configuration used for training the model.
 
