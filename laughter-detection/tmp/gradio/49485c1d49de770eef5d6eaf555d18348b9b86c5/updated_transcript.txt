@@ -1,0 +1,111 @@
+{'timestamp': (0.0, 4.48), 'text': " So if you guys have any questions, what's what for about keto or intermittent fasting,"}
+{'timestamp': (4.48, 9.04), 'text': " whether you're starting keto as a new person or just need to debug your program,"}
+{'timestamp': (9.04, 13.28), 'text': " or you have a question about a product, call one of our keto consultants, they'll be able to help you."}
+{'timestamp': (13.28, 21.76), 'text': " Call 540-299-1557. That's 540-299-1557."}
+{'timestamp': (23.6, 29.2), 'text': ' Welcome to the Dr. Berg Healthy Keto and Intermittent Fasting Podcast.'}
+{'timestamp': (29.2, 34.0), 'text': ' Now your host, the man taking your health to a whole new level.'}
+{'timestamp': (34.0, 36.0), 'text': ' Doctor Eric Burg.'}
+{'timestamp': (36.0, 42.56), 'text': " So today we're going to talk about how to lose more weight, having a hypothyroid condition."}
+{'timestamp': (42.56, 45.8), 'text': ' So if you have a slow thyroid, this video is for you.'}
+{'timestamp': (45.8, 47.32), 'text': " Here's the big problem."}
+{'timestamp': (47.32, 49.76), 'text': ' When you do research on a hypothyroid,'}
+{'timestamp': (49.76, 51.76), 'text': " it's a bit complex because you have"}
+{'timestamp': (51.76, 54.68), 'text': " Hashimoto's hypothyroid condition."}
+{'timestamp': (54.68, 57.76), 'text': " You have non-Hashimoto's hypothyroid condition."}
+{'timestamp': (57.76, 59.08), 'text': " You're given so much advice."}
+{'timestamp': (59.08, 62.48), 'text': " It's almost impossible to know what is the absolute"}
+{'timestamp': (62.48, 66.04), 'text': ' important things to know and what is the trivial.'}
+{'timestamp': (66.04, 70.72), 'text': " In this video we're going to talk about the absolute most important thing you need to"}
+{'timestamp': (70.72, 76.44), 'text': " focus on to get results with weight loss if you have a Hashimoto's type thyroid case"}
+{'timestamp': (76.44, 78.0), 'text': ' or just regular hypothyroidism.'}
+{'timestamp': (78.0, 79.0), 'text': ' A few basics.'}
+{'timestamp': (79.0, 83.16), 'text': " You got the thyroid right here, it's located right in the bottom part of the neck and it"}
+{'timestamp': (83.16, 84.72), 'text': ' happens just wide.'}
+{'timestamp': (84.72, 85.12), 'text': ' It produces'}
+{'timestamp': (85.12, 90.96), 'text': ' a hormone T4. Okay, the four represents the number of iodine molecules. So you get four and then'}
+{'timestamp': (90.96, 99.12), 'text': " you got this T3 over here, right? So T4, T4 is an inactive thyroid hormone. It's not active, it"}
+{'timestamp': (99.12, 105.84), 'text': " doesn't really do much. It's a pre hormone. Your body strips off this one of the iodine molecules and it converts to T3."}
+{'timestamp': (106.64, 113.12), 'text': " T3 is the active form of thyroid hormone, okay? It's the thing that goes into all the cells and"}
+{'timestamp': (113.12, 118.64), 'text': ' speeds up your metabolism, as well as weight loss. And here is the most important thing. To get from'}
+{'timestamp': (118.64, 127.62), 'text': ' this T4 to this T3, it has to be converted, okay? 80% of the conversion happens through your liver.'}
+{'timestamp': (127.62, 131.58), 'text': ' And 20% happens through the kidneys.'}
+{'timestamp': (131.58, 133.14), 'text': ' And this is really important information'}
+{'timestamp': (133.14, 138.14), 'text': ' because so many people that have a hypothyroid condition'}
+{'timestamp': (138.14, 139.58), 'text': ' have a fatty liver.'}
+{'timestamp': (139.58, 141.98), 'text': " I mean, it's almost one for one."}
+{'timestamp': (141.98, 144.74), 'text': ' If you have belly fat, chances are you have a fatty liver.'}
+{'timestamp': (144.74, 151.64), 'text': ' You can get an ultrasound to find that out, but a fatty liver decreases the capacity for that conversion.'}
+{'timestamp': (151.64, 158.0), 'text': ' So this will be your focus to get the fat off the liver and improve the function of the liver.'}
+{'timestamp': (158.0, 162.84), 'text': ' Now, it could also be a problem with your gallbladder. It could be a problem with not having a gallbladder.'}
+{'timestamp': (162.84, 167.62), 'text': ' It could be cirrhosis. It could be inflammation or some damage in the liver,'}
+{'timestamp': (167.62, 170.76), 'text': ' but usually it is a fatty liver.'}
+{'timestamp': (170.76, 172.56), 'text': ' Now you would think that all I need to do'}
+{'timestamp': (172.56, 176.64), 'text': ' is cut the fat out of my diet and the fat will go away.'}
+{'timestamp': (176.64, 179.84), 'text': " That's not how it works and that's not what you wanna do."}
+{'timestamp': (179.84, 183.28), 'text': ' You do want to cut the carbs out, okay?'}
+{'timestamp': (183.28, 187.16), 'text': " That's why I'm gonna recommend keto and imminent fasting,"}
+{'timestamp': (187.16, 192.0), 'text': " but you don't want to start cutting down the fat and your diet."}
+{'timestamp': (192.0, 195.32), 'text': ' Here are a few things to speed up the process.'}
+{'timestamp': (195.32, 199.68), 'text': ' Colline is one of the most powerful nutrients'}
+{'timestamp': (199.68, 202.56), 'text': ' to strip fat off your liver very quickly.'}
+{'timestamp': (202.56, 203.92), 'text': ' You can get it in a powder.'}
+{'timestamp': (203.92, 204.92), 'text': ' You can get it in a supplement.'}
+{'timestamp': (204.92, 207.0), 'text': ' I recommend you get a high quality coline and start taking that on a regular basis.'}
+{'timestamp': (207.0, 209.0), 'text': " That's going to assist."}
+{'timestamp': (209.0, 212.0), 'text': ' This nutrient is lipotrophic.'}
+{'timestamp': (212.0, 214.0), 'text': ' It basically dissolves fat.'}
+{'timestamp': (214.0, 218.0), 'text': ' And guess what food has the highest amount of coline?'}
+{'timestamp': (218.0, 220.0), 'text': ' Eggs, egg yolks.'}
+{'timestamp': (220.0, 221.0), 'text': ' Interesting, right?'}
+{'timestamp': (221.0, 223.0), 'text': " So you don't want to start giving up those foods"}
+{'timestamp': (223.0, 226.54), 'text': " that are high in coline. In fact, if you have a coline deficiency, Egs, egg yolks. Interesting, right? So you don't want to start giving up those foods"}
+{'timestamp': (226.54, 228.38), 'text': ' that are high in cooling.'}
+{'timestamp': (228.38, 230.98), 'text': ' In fact, if you have a cooling deficiency, (Laughing)'}
+{'timestamp': (230.98, 234.62), 'text': ' you could potentially get a fatty liver.'}
+{'timestamp': (234.62, 237.58), 'text': ' Next thing is selenium.'}
+{'timestamp': (237.58, 238.66), 'text': ' Why selenium?'}
+{'timestamp': (238.66, 242.42), 'text': ' Selenium is also involved in the conversion'}
+{'timestamp': (242.42, 247.12), 'text': ' from T4 to T3. People that have a fatty liver are nearly'}
+{'timestamp': (247.12, 253.36), 'text': ' always deficient of selenium, as well as zinc will get to this in a minute. But selenium'}
+{'timestamp': (253.36, 259.28), 'text': ' is an antioxidant, so it actually gets rid of the excess hydrogen peroxide in your body.'}
+{'timestamp': (259.28, 267.4), 'text': " That's generate especially if you have Hashimoto's hypothyroidism. So, Selinium is essential if you have Hashimoto's."}
+{'timestamp': (267.4, 271.2), 'text': " This is really important because it's going to help your immune system."}
+{'timestamp': (271.2, 276.6), 'text': " Okay, so if you have Hashimoto's, you want to take some of this as a supplement, and"}
+{'timestamp': (276.6, 279.8), 'text': ' you also want to do more strict interminute fasting.'}
+{'timestamp': (279.8, 284.8), 'text': " That's going to drop the inflammation because Hashimoto's is more of an immune issue,"}
+{'timestamp': (284.8, 285.58), 'text': ' okay?'}
+{'timestamp': (285.58, 290.64), 'text': " But it's also involved in the conversion of T4 to T3."}
+{'timestamp': (290.64, 295.68), 'text': " Yes, there's foods high in selenium like Brazil nuts and seafood, but I don't recommend"}
+{'timestamp': (295.68, 298.96), 'text': " trying to get all of your selenium from foods if you're deficient."}
+{'timestamp': (298.96, 300.32), 'text': ' You want to take it as a supplement.'}
+{'timestamp': (300.32, 302.12), 'text': " Now I don't want to get into the brands or dosages."}
+{'timestamp': (302.12, 307.68), 'text': ' I would just look online for something that looks like it has a lot of good feedback on'}
+{'timestamp': (307.68, 310.2), 'text': ' other people that are getting good results with it, okay?'}
+{'timestamp': (310.2, 313.08), 'text': ' And then follow the directions on the back of the bottle.'}
+{'timestamp': (313.08, 314.92), 'text': ' All right, next one is iodine.'}
+{'timestamp': (314.92, 319.8), 'text': ' Iodine is part of the raw material to build the thyroid hormone.'}
+{'timestamp': (319.8, 322.76), 'text': ' And a lot of people are deficient in iodine.'}
+{'timestamp': (322.76, 325.24), 'text': ' So I would get this from C-Celp.'}
+{'timestamp': (325.24, 326.72), 'text': ' Next one is zinc.'}
+{'timestamp': (326.72, 328.68), 'text': ' Zinc is really, really important.'}
+{'timestamp': (328.68, 337.76), 'text': ' Taking zinc will help you in almost every single side effect that hypothyroid produces.'}
+{'timestamp': (337.76, 344.4), 'text': ' Like for example, loss of hair, thinning hair, fatigue, constipation.'}
+{'timestamp': (344.4, 345.52), 'text': ' Zinc is good for that.'}
+{'timestamp': (345.52, 348.36), 'text': ' Zinc is very, very, very, very good for the thyroid.'}
+{'timestamp': (348.36, 350.12), 'text': " It's also good for the liver."}
+{'timestamp': (350.12, 351.56), 'text': ' And if you have a fatty liver,'}
+{'timestamp': (351.56, 354.52), 'text': ' you are going to be deficient in zinc, okay?'}
+{'timestamp': (354.52, 357.96), 'text': ' Zinc is in oysters, meat, pumpkin seeds.'}
+{'timestamp': (357.96, 360.16), 'text': ' I recommend getting it as a supplement.'}
+{'timestamp': (360.16, 361.56), 'text': ' So these are the key things,'}
+{'timestamp': (361.56, 363.4), 'text': ' in addition to keto and IF,'}
+{'timestamp': (363.4, 365.6), 'text': ' as your primary focus to target'}
+{'timestamp': (365.6, 369.96), 'text': ' and not to dispatch a letter to improve the thyroid function.'}
+{'timestamp': (369.96, 371.36), 'text': ' Thanks for watching.'}
+{'timestamp': (371.36, 376.72), 'text': " Hey, if you're liking this content, please subscribe now and I will actually keep you updated"}
+{'timestamp': (376.72, 378.36), 'text': ' on future videos.'}
+{'timestamp': (378.36, 383.6), 'text': ' Hey guys, I just want to let you know I have my new Keto course just came out.'}
+{'timestamp': (383.6, 384.92), 'text': " It's a mini course."}
+{'timestamp': (384.92, 388.64), 'text': ' It covers all the basics and how to do it correctly.'}
+{'timestamp': (388.64, 391.48), 'text': ' You can get through this in probably 20 minutes at the very most.'}
+{'timestamp': (391.48, 395.4), 'text': " So if you're interested, click the link below and get signed up now."}

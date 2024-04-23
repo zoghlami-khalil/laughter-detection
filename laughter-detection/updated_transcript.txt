@@ -1,0 +1,713 @@
+{'timestamp': (0.0, 6.56), 'text': ' This week on the Unsigned podcast, we have my good friend, John Vince, the marketing director'}
+{'timestamp': (6.56, 8.56), 'text': ' at Columbia Records.'}
+{'timestamp': (8.56, 14.12), 'text': " John and I go back a few years when we were both working at Sony's, stayed in touch."}
+{'timestamp': (14.12, 21.52), 'text': ' Just overall creative, genius guy, really sharp when it comes to the image and what the strategy'}
+{'timestamp': (21.52, 26.84), 'text': ' for Be On should be for small projects, big projects, everything in between,'}
+{'timestamp': (26.84, 28.52), 'text': ' just all around great dude.'}
+{'timestamp': (28.52, 32.0), 'text': ' So this is one of our favorite episodes as well.'}
+{'timestamp': (32.0, 33.68), 'text': ' So make sure to check it out.'}
+{'timestamp': (33.68, 35.04), 'text': ' If you guys are looking for more information'}
+{'timestamp': (35.04, 38.8), 'text': ' on StudioTalk, you can visit us at studiotalk.co.'}
+{'timestamp': (38.8, 40.44), 'text': " But for now, let's get into the episode."}
+{'timestamp': (40.44, 42.52), 'text': " John Vincent Salcedo, I'm currently"}
+{'timestamp': (42.52, 53.76), 'text': ' the digital marketing director at Columbia Records. Well, yeah, right.'}
+{'timestamp': (53.76, 56.68), 'text': ' But yeah, just kind of jumping into the music stuff.'}
+{'timestamp': (56.68, 61.64), 'text': ' Give us a quick little kind of background like how you got into music and how you made'}
+{'timestamp': (61.64, 62.68), 'text': ' your way over to Columbia.'}
+{'timestamp': (62.68, 63.68), 'text': ' For sure.'}
+{'timestamp': (63.68, 70.78), 'text': ' I mean, like going all the way all the way back. I came here from this country right when I was a teenager like 10 11 years old'}
+{'timestamp': (70.78, 74.42), 'text': ' I know I actually fell in love with wanting to make music so I was chasing'}
+{'timestamp': (74.94, 78.46), 'text': ' To be an artist right want to be a rapper. I have this story'}
+{'timestamp': (78.46, 87.68), 'text': ' I fell in love with the culture save my life coming here from like a different country I was like I think I have I have something to tell. So, but you realize as an indie artist super quickly'}
+{'timestamp': (87.68, 89.74), 'text': " that you're like broke and then you don't have"}
+{'timestamp': (89.74, 93.4), 'text': ' to hide this is like a big deal with what you guys are doing.'}
+{'timestamp': (93.4, 95.96), 'text': " You don't have help, so then you start figuring things out."}
+{'timestamp': (95.96, 99.76), 'text': ' So you start realizing like I gotta learn how to market myself,'}
+{'timestamp': (99.76, 101.2), 'text': " but it's like even the smaller things."}
+{'timestamp': (101.2, 106.96), 'text': " Like I can't afford a graphic designer. So I got to actually design this thing now. I got to learn Photoshop to all the way down."}
+{'timestamp': (106.96, 108.48), 'text': ' I like I can afford a videographer.'}
+{'timestamp': (108.48, 111.76), 'text': " So I got to edit these videos myself where you don't realize"}
+{'timestamp': (111.76, 114.08), 'text': ' is like years and years of doing this.'}
+{'timestamp': (114.08, 118.64), 'text': " You're like, oh, wait, I'm picking up a skill on a typical immigrant story."}
+{'timestamp': (118.64, 127.04), 'text': " Like it wasn't going to happen. 18, 19 years old, the hit, me chasing to be like an artist was just something that wasn't realistic for where I wasn't like."}
+{'timestamp': (127.04, 130.52), 'text': ' But then you you start helping other people out because you learn how to do for sure.'}
+{'timestamp': (130.52, 132.36), 'text': ' You learn how to create a banner on Instagram.'}
+{'timestamp': (132.36, 134.52), 'text': " You realize the artist path isn't for you."}
+{'timestamp': (134.52, 135.52), 'text': ' Same thing.'}
+{'timestamp': (135.52, 136.52), 'text': " Like I realized rap wasn't it."}
+{'timestamp': (136.52, 146.64), 'text': " But by the time I realized rap wasn't it, I'm like, I'm writing for other people. I'm helping other people with my space design and like helping them to set up studio sessions"}
+{'timestamp': (146.64, 149.0), 'text': ' and like sitting in you like you find that like,'}
+{'timestamp': (149.0, 152.4), 'text': " you're finally like you're acutely tuned to manage"}
+{'timestamp': (152.4, 154.58), 'text': ' or if not to manage to at least be a day-to-day'}
+{'timestamp': (154.58, 157.08), 'text': ' for someone to help kind of direct traffic.'}
+{'timestamp': (157.08, 159.04), 'text': " And there's way, yeah, yeah, I was gonna say"}
+{'timestamp': (159.04, 160.68), 'text': " and there's ways to still be creative."}
+{'timestamp': (160.68, 165.16), 'text': " If you can't be the guy, you can still help that guy out with all the creative stuff that goes into it."}
+{'timestamp': (165.16, 169.56), 'text': " But for instance, you're coming from an artist perspective, you get it. I think that's"}
+{'timestamp': (169.56, 170.56), 'text': ' what you already know.'}
+{'timestamp': (170.56, 173.68), 'text': " You're already connecting a lot of people have on the industry and business side is they've"}
+{'timestamp': (173.68, 175.4), 'text': ' never stepped into the shoes of an artist.'}
+{'timestamp': (175.4, 176.4), 'text': ' Right.'}
+{'timestamp': (176.4, 185.68), 'text': " So they don't know how to speak to them. They don't know how to get things through the line because you've never been in that situation. So yeah, it started from there. You start freelancing for other artists"}
+{'timestamp': (185.68, 187.2), 'text': ' since you met them as an artist.'}
+{'timestamp': (187.2, 189.44), 'text': " So yeah, I'll help you make a website."}
+{'timestamp': (189.44, 191.64), 'text': " I'll help you kind of create your logo."}
+{'timestamp': (191.64, 193.64), 'text': " I'll help you pick your color schemes."}
+{'timestamp': (193.64, 196.52), 'text': ' And you start with these small branches'}
+{'timestamp': (196.52, 199.28), 'text': ' of how to get a song out or a project out.'}
+{'timestamp': (199.28, 200.52), 'text': " And next thing you know, you're like,"}
+{'timestamp': (200.52, 205.56), 'text': " wait, hold up, I'm fully involved with management now. I'm fully involved with your strategy on how you are"}
+{'timestamp': (205.56, 207.56), 'text': " as an artist and how you're about to grow in the developed."}
+{'timestamp': (207.56, 211.16), 'text': ' Luckily enough, you know, how I ended up in Sony Music'}
+{'timestamp': (211.16, 214.24), 'text': ' prior to even joining Columbia was just one of the artists'}
+{'timestamp': (214.24, 216.2), 'text': ' I was helping freelance got signed.'}
+{'timestamp': (216.2, 217.04), 'text': ' Oh, work.'}
+{'timestamp': (217.04, 219.36), 'text': " Yeah, you don't go through because I went to pace, right?"}
+{'timestamp': (219.36, 227.32), 'text': " Yeah. You realize there's no like I was gonna say Pace guy's Yeah, oh man. I love it. Oh, so oh dobs down downtown right?"}
+{'timestamp': (227.32, 229.64), 'text': " You go to my trust that there's only one"}
+{'timestamp': (229.64, 234.16), 'text': ' Campus that we acknowledge there is only one face campus. Sorry. Sorry pleasantville (Laughing)'}
+{'timestamp': (237.64, 242.64), 'text': " But there's no music like there's no like music business course or music marketing course"}
+{'timestamp': (242.64, 245.6), 'text': " But you're deeply immersed in everything."}
+{'timestamp': (245.6, 248.52), 'text': ' Like I was, I was, same deal.'}
+{'timestamp': (248.52, 252.72), 'text': " Like I, I'd worked, I'd always been around music like I'd always done and like, so I didn't"}
+{'timestamp': (252.72, 254.52), 'text': ' have studied business.'}
+{'timestamp': (254.52, 255.52), 'text': ' Yeah.'}
+{'timestamp': (255.52, 259.9), 'text': " Great for business, but didn't have music business or, but you're in the, you're in the"}
+{'timestamp': (259.9, 260.9), 'text': ' heart of New York.'}
+{'timestamp': (260.9, 261.9), 'text': ' Absolutely.'}
+{'timestamp': (261.9, 265.76), 'text': " So I'm like, I'm at the source.com interning. Like I have all these like, I pop up,"}
+{'timestamp': (265.76, 269.6), 'text': ' like my head friends that were working at labels. So I would like pull up to their internships.'}
+{'timestamp': (269.6, 273.44), 'text': " I'm like, doing like you start doing little odd jobs. You're going to open mics and doing"}
+{'timestamp': (273.44, 280.88), 'text': " my last one. So like you're getting a practical internship just by being knee deep in the scene of"}
+{'timestamp': (280.88, 286.0), 'text': ' like in the kind of the burgeoning scene that you want to make a lifestyle out of it'}
+{'timestamp': (286.0, 288.0), 'text': ' make a way of life out of.'}
+{'timestamp': (288.0, 289.0), 'text': ' So yeah.'}
+{'timestamp': (289.0, 291.0), 'text': " And that's just how we ended up exactly that."}
+{'timestamp': (291.0, 293.0), 'text': ' Like you go to these spaces, you meet people'}
+{'timestamp': (293.0, 295.0), 'text': ' because you are a music lover at the end of the day.'}
+{'timestamp': (295.0, 297.0), 'text': " So you're looking for the new thing you're looking for"}
+{'timestamp': (297.0, 299.0), 'text': " who's high your show's to discover talent."}
+{'timestamp': (299.0, 300.0), 'text': ' Absolutely.'}
+{'timestamp': (300.0, 306.44), 'text': ' And you start, you know, meeting more and more people, you start meeting more and more artists. And yeah, one of them luckily enough got signed'}
+{'timestamp': (306.44, 308.12), 'text': ' to a label under Sony Music.'}
+{'timestamp': (308.12, 310.64), 'text': ' I was helping we create a direction on the website'}
+{'timestamp': (310.64, 311.48), 'text': ' and the did it.'}
+{'timestamp': (311.48, 313.6), 'text': " And I'm like, what do you mean this is a job?"}
+{'timestamp': (313.6, 315.16), 'text': ' Yeah, right?'}
+{'timestamp': (315.16, 316.36), 'text': ' Oh, I can get paid for this.'}
+{'timestamp': (316.36, 317.2), 'text': ' Oh, I can get paid it.'}
+{'timestamp': (317.2, 326.12), 'text': " Yeah, yeah. Hold up, you're telling me that I can get like health insurance and dental. I'm just happy to be here. Like, it's like, it's got a little banner or like come up with a color"}
+{'timestamp': (326.12, 326.96), 'text': ' CD.'}
+{'timestamp': (326.96, 327.96), 'text': ' Fill out paperwork.'}
+{'timestamp': (327.96, 328.96), 'text': " Yeah, you're like, I'm with it."}
+{'timestamp': (328.96, 329.96), 'text': ' And you pay monthly.'}
+{'timestamp': (329.96, 330.96), 'text': ' Yeah.'}
+{'timestamp': (330.96, 331.96), 'text': ' Yeah.'}
+{'timestamp': (331.96, 332.96), 'text': ' This is a consistent check.'}
+{'timestamp': (332.96, 333.96), 'text': ' Yeah.'}
+{'timestamp': (333.96, 334.96), 'text': ' Yeah.'}
+{'timestamp': (334.96, 336.96), 'text': " The freelance check where you're chasing like next 16, right?"}
+{'timestamp': (336.96, 337.96), 'text': ' Right, right.'}
+{'timestamp': (337.96, 345.92), 'text': " I'm with this. Occupy bills and biometroc Yeah, this is that like him like the artist getting signed to me like you let me just go with you do it like a meeting"}
+{'timestamp': (345.92, 348.22), 'text': ' Right, right then from there. I was just like hey'}
+{'timestamp': (348.72, 352.08), 'text': " I'm in college. Yep. I'm about to graduate like what's up?"}
+{'timestamp': (352.08, 356.2), 'text': " And I get like a freelance job and internship. What how do you guys do it? Yeah, what's the next step?"}
+{'timestamp': (356.2, 358.24), 'text': " What's the next step? Yeah, yeah from there"}
+{'timestamp': (358.24, 360.24), 'text': ' I I interned for like half a semester'}
+{'timestamp': (365.88, 369.16), 'text': " Graduated was just freelancing for the artists, specifically because they went to bat for me. They looked out like, no, that's our creative guy from day one."}
+{'timestamp': (369.16, 369.88), 'text': " He's been helping."}
+{'timestamp': (369.88, 371.32), 'text': ' So what can we do?'}
+{'timestamp': (371.32, 373.7), 'text': ' So then I was getting like a freelance check waiting for an'}
+{'timestamp': (373.7, 375.88), 'text': " opportunity to open under someone's music as far as like a"}
+{'timestamp': (375.88, 376.38), 'text': ' head count.'}
+{'timestamp': (376.38, 376.64), 'text': ' Right.'}
+{'timestamp': (376.64, 378.24), 'text': " That was the first time I learned that that's like, we can't"}
+{'timestamp': (378.24, 385.84), 'text': " just hire you. You know, numbers got to be there to every super intern. That's like really good in a label. Like you can be the best thing as a"}
+{'timestamp': (386.48, 391.44), 'text': ' intern free worker, but if that head count is an open promise. Stay the course. Like getting a'}
+{'timestamp': (391.44, 396.4), 'text': " job. Yeah. I had to learn that and it's something that I share with any mentee or I mean, I shared"}
+{'timestamp': (396.4, 409.78), 'text': " this with Merff when he was my intern. I was like, look, it's it's unfortunate, but you learn like I saw people get gigs before me. Yeah me And it's just because they were in a department that was like where they said the old man had an opening hat"}
+{'timestamp': (409.78, 413.58), 'text': " Like so it's not always like it's first person up. It's not always best person up"}
+{'timestamp': (413.58, 419.58), 'text': " So it's something that you have to really kind of steal yourself for and just stay the court like it's difficult because"}
+{'timestamp': (420.1, 428.0), 'text': ' You look at things like a negative balance in a bank account, like a rumbling stomach, you know, taking three buses'}
+{'timestamp': (428.0, 432.0), 'text': " because the long-alarm railroad isn't necessarily an option at that one."}
+{'timestamp': (432.0, 434.0), 'text': " You know, like you look at all these things and you're just like,"}
+{'timestamp': (434.0, 438.4), 'text': ' all right, I could really use like a consistent salary and some health care.'}
+{'timestamp': (438.4, 450.24), 'text': " Yeah, yeah, for sure. A lot of two-brows. A lot of two-brows. Oh, Yeah. A lot of dollars. But like you look at that and you're just like, you know what? I, it gets rough. And then that's the test"}
+{'timestamp': (450.24, 454.0), 'text': " too. That's like the real pressure test. Like, do you want this? Like do you really want"}
+{'timestamp': (454.0, 465.76), 'text': " it? And if you can just like you were saying a minute ago, do you want to stay? But it's about staying the course. Like you were saying and like, you know, it's gonna, it's gonna test you, just like anything else in life. It's gonna test you at times."}
+{'timestamp': (465.76, 467.44), 'text': ' And if you really want it, you know,'}
+{'timestamp': (467.44, 468.44), 'text': ' just keep working at it.'}
+{'timestamp': (468.44, 469.96), 'text': " And I mean, that's,"}
+{'timestamp': (469.96, 471.28), 'text': " I mean, that's a thing."}
+{'timestamp': (471.28, 473.04), 'text': " And I was like, you hustle because you realize it's like,"}
+{'timestamp': (473.04, 475.36), 'text': " wait, if this label's willing to pay a free"}
+{'timestamp': (475.36, 509.92), 'text': " answer to do this, there's a hundred. There I was like, I was sitting in the back of a boiler room, free-lancing, coming in five days a week, first one in, last one out for my like free-lash."}
+{'timestamp': (509.92, 515.92), 'text': ' It goes in decent freelance check until taxes.'}
+{'timestamp': (515.92, 519.16), 'text': " But like you do all of this and like you don't like your stain and you don't realize you"}
+{'timestamp': (519.16, 521.08), 'text': ' can take on outside work.'}
+{'timestamp': (521.08, 522.16), 'text': ' You can answer an email.'}
+{'timestamp': (522.16, 526.0), 'text': ' You can do some other like you can diversify and pick up these checks from elsewhere'}
+{'timestamp': (526.0, 528.0), 'text': " And then you're also putting yourself on the relate on the radar"}
+{'timestamp': (528.0, 534.0), 'text': " And that's the one is you start putting your name out there you start putting your work out there you start creating more and more relationships"}
+{'timestamp': (534.0, 545.88), 'text': " Because then the building starts buzzing because if you're really good they'll run into each other the industry is so small Well, they don't feel like wait, what do you mean? Oh, Oh, I got a guy. Oh, yeah, that's like that guy. So I use them too."}
+{'timestamp': (545.88, 547.56), 'text': ' And then that changes.'}
+{'timestamp': (547.56, 549.4), 'text': ' HR all of a sudden becomes a step,'}
+{'timestamp': (549.4, 551.76), 'text': ' like that superstar intern.'}
+{'timestamp': (551.76, 553.76), 'text': ' The industry is a poorly built high school.'}
+{'timestamp': (553.76, 555.12), 'text': " It's a poorly built high school."}
+{'timestamp': (555.12, 556.12), 'text': ' Everybody talks.'}
+{'timestamp': (556.12, 559.16), 'text': " And it's like, FOMO is like the number one thing"}
+{'timestamp': (559.16, 566.84), 'text': " and everyone just hates missing out's both like talent on the music side by talent on the business side as well. For sure. Like they go for it. For sure."}
+{'timestamp': (566.84, 569.16), 'text': " You want to do the best bite. You just want to make sure nobody else can't even."}
+{'timestamp': (569.16, 574.28), 'text': ' Exactly. So getting into a little bit more some of the specifics,'}
+{'timestamp': (574.28, 580.0), 'text': ' you got a quick story on like your your most favorite moment working in the'}
+{'timestamp': (580.0, 585.48), 'text': " industry thus far. Like was it working on a really big project? I mean, you've worked on some of the biggest in recent years."}
+{'timestamp': (585.48, 591.34), 'text': ' Or was it like something small just starting out that like really, you know, kept that'}
+{'timestamp': (591.34, 592.34), 'text': ' momentum going?'}
+{'timestamp': (592.34, 594.44), 'text': ' I mean, yeah, so two stories.'}
+{'timestamp': (594.44, 596.18), 'text': ' One I think find is like humorous.'}
+{'timestamp': (596.18, 598.6), 'text': ' I feel like this is like super important.'}
+{'timestamp': (598.6, 601.28), 'text': ' I was doing international market for like a year and a half.'}
+{'timestamp': (601.28, 605.48), 'text': ' So we were in charge of telling the story, making sure that we were properly representing'}
+{'timestamp': (605.48, 608.8), 'text': ' the project XUS outside of the United States.'}
+{'timestamp': (608.8, 610.84), 'text': ' One of the things that I went through was really funny,'}
+{'timestamp': (610.84, 613.64), 'text': ' was bringing a project from the country'}
+{'timestamp': (613.64, 616.48), 'text': ' to a different country because of leaks.'}
+{'timestamp': (616.48, 617.8), 'text': " You can't just email it."}
+{'timestamp': (617.8, 621.12), 'text': " It's ironic in 2019."}
+{'timestamp': (621.12, 623.16), 'text': ' You got to fly over there and like.'}
+{'timestamp': (623.16, 627.44), 'text': ' I pod, like old school I iPod to go to a different'}
+{'timestamp': (627.44, 633.44), 'text': ' like label. Wow. For Sony music. Yeah. And it did go. Yo, here you go. Right? Wow.'}
+{'timestamp': (633.44, 637.28), 'text': ' Very story. I was there with like an artist manager. We were delivering this project and the'}
+{'timestamp': (637.28, 646.72), 'text': " game plan and the whole marketing company. We're doing this to him by every single press in that country. Got stopped by TSA."}
+{'timestamp': (646.72, 648.28), 'text': ' Oh, shit.'}
+{'timestamp': (648.28, 650.12), 'text': ' And they were like, hey, what are you here for?'}
+{'timestamp': (650.12, 651.8), 'text': ' We need to open this bag.'}
+{'timestamp': (651.8, 653.44), 'text': " I'm like, cool, you can open the bag."}
+{'timestamp': (653.44, 654.96), 'text': " Hey, what's this?"}
+{'timestamp': (654.96, 655.96), 'text': " And it's this iPod."}
+{'timestamp': (655.96, 658.48), 'text': " It's my first time being in this world before."}
+{'timestamp': (658.48, 665.0), 'text': " So I took this confidentiality to like, I can't tell you what's in here."}
+{'timestamp': (665.0, 667.0), 'text': " Don't press that button, whatever you do."}
+{'timestamp': (667.0, 669.0), 'text': " Like don't like hey just let it go."}
+{'timestamp': (669.0, 670.0), 'text': ' Yeah.'}
+{'timestamp': (670.0, 672.0), 'text': " Um, so they're like why is like well like"}
+{'timestamp': (672.0, 674.0), 'text': " it's I can't I can't play you there"}
+{'timestamp': (674.0, 675.0), 'text': " like I can't tell you what's in it."}
+{'timestamp': (675.0, 676.0), 'text': ' Right.'}
+{'timestamp': (676.0, 677.0), 'text': " It's just it's probably this confidential."}
+{'timestamp': (677.0, 685.36), 'text': ' Dude thought I was like just a complete asshole because of that. Yeah. So held me for like two hours. Oh shit. Like while the artist'}
+{'timestamp': (685.36, 690.92), 'text': ' madgers waiting outside. Oh my god. Like the story here is like this artist, this label'}
+{'timestamp': (690.92, 695.4), 'text': ' management relationship and how big this has become. I was freaking out. I was like, Oh'}
+{'timestamp': (695.4, 699.12), 'text': " man's artist manager has been waiting there for so long. You know, whatever I get out"}
+{'timestamp': (699.12, 705.0), 'text': " and I'm like, Oh, they're pissed. They're hot. They've waited here for like good two hours and 20 minutes at this point."}
+{'timestamp': (705.0, 709.92), 'text': ' As a TSA member goes, hey, why did you, why did you held him back? He goes,'}
+{'timestamp': (709.92, 714.44), 'text': " getting one of the tell us what's in this iPod. And the Martin, the manager was like,"}
+{'timestamp': (714.44, 721.08), 'text': " let's go out. Oh, shit. He had that night and spoke to me about how like, you were willing to go there."}
+{'timestamp': (721.08, 727.82), 'text': " That's far, yeah. Or an artist's confidentiality and they took that to heart because it was like, they"}
+{'timestamp': (727.82, 731.08), 'text': ' explained to me like, if this did leak, yeah, it just came over.'}
+{'timestamp': (731.08, 732.08), 'text': " It's a big, it's a big deal."}
+{'timestamp': (732.08, 733.08), 'text': " It's a big deal."}
+{'timestamp': (733.08, 735.56), 'text': " So for you, but it's like, think of it from the artist's side."}
+{'timestamp': (735.56, 737.88), 'text': " It's something that they've been working on for years."}
+{'timestamp': (737.88, 748.52), 'text': " Right. And you're holding it as your own, like you're keeping it close. And they were like, that's amazing. Like you, like that, I've never, like, you were willing to go to like, extreme limits force."}
+{'timestamp': (748.52, 750.0), 'text': " And I was, and I'm sitting there,"}
+{'timestamp': (750.0, 751.44), 'text': ' and I realized I was like, oh,'}
+{'timestamp': (751.44, 752.76), 'text': ' yeah, you were just doing that.'}
+{'timestamp': (752.76, 753.76), 'text': " It's like, you know what I was going to do."}
+{'timestamp': (753.76, 754.76), 'text': " It's like a good challenge."}
+{'timestamp': (754.76, 755.76), 'text': " It was like, you didn't say,"}
+{'timestamp': (755.76, 765.84), 'text': " you didn't tell them how he got anything. Six month easy for us to get through the line from the label side. It was easy for us to put because they trusted me with any decision."}
+{'timestamp': (765.84, 767.92), 'text': " I was hoping you've already faced off against the government."}
+{'timestamp': (767.92, 768.92), 'text': ' Yeah.'}
+{'timestamp': (768.92, 769.92), 'text': ' Yeah.'}
+{'timestamp': (769.92, 773.84), 'text': ' I was one story that fell in love because I was like, I never experienced that before'}
+{'timestamp': (773.84, 776.92), 'text': ' in terms of like changing a full relationship.'}
+{'timestamp': (776.92, 777.92), 'text': ' First, first day we met.'}
+{'timestamp': (777.92, 778.92), 'text': ' Wow.'}
+{'timestamp': (778.92, 779.92), 'text': ' Should have told me you had some bomb.'}
+{'timestamp': (779.92, 786.16), 'text': " Yo, he was. And then he was like, you're gonna play this and this thing is just gonna go right"}
+{'timestamp': (787.2, 792.08), 'text': " I can't do it. We're pretty label. I got Sony music out. I'm gonna go like you can buy that hat anywhere. I was like oh"}
+{'timestamp': (792.8, 795.68), 'text': ' man, that was story checks that you got to show with business cards'}
+{'timestamp': (796.32, 799.76), 'text': " Like I'll send you an email right now like that was insane"}
+{'timestamp': (800.32, 804.72), 'text': " And recently we've been working on this campaign with John Legend uh where we were"}
+{'timestamp': (806.16, 811.76), 'text': " And recently we've been working on this campaign with John Legend, where we were highlighting a different community leader that had a nonprofit organization that was fighting for a change"}
+{'timestamp': (811.76, 816.4), 'text': ' that was happening within the United States but mostly globally.'}
+{'timestamp': (816.4, 820.0), 'text': ' That meant a lot because that was more than about music but was still connected to the'}
+{'timestamp': (820.0, 822.6), 'text': ' music at the essence of the songwriting.'}
+{'timestamp': (822.6, 826.0), 'text': " But we were hiling people that don't usually get that type of love."}
+{'timestamp': (826.0, 834.0), 'text': ' Yeah. That are really like have gone through unfortunate events and situations and found inspiration out of it.'}
+{'timestamp': (834.0, 841.0), 'text': " And was like, I'm gonna, I'm gonna get up and make a change. Just the impact. It sounds like the impact of the music was just like, that was the incredible."}
+{'timestamp': (841.0, 846.52), 'text': " That's what music is all about. I think what can you really do for people and how can you really uplift people"}
+{'timestamp': (846.52, 848.24), 'text': ' in some way shape or form.'}
+{'timestamp': (848.24, 850.64), 'text': ' Us highlighting and tying that music back together'}
+{'timestamp': (850.64, 853.84), 'text': ' with people that have been doing this for years'}
+{'timestamp': (853.84, 855.96), 'text': ' and giving them some sort of highlight'}
+{'timestamp': (855.96, 857.28), 'text': ' is a beautiful thing.'}
+{'timestamp': (857.28, 858.52), 'text': ' For sure.'}
+{'timestamp': (858.52, 860.92), 'text': ' So yeah, man, I wanna get into some of the specifics'}
+{'timestamp': (860.92, 867.44), 'text': ' right now to help those people that are coming up and kind of get super technical'}
+{'timestamp': (867.44, 873.32), 'text': ' a little bit. But one of the big things that a lot of people have trouble doing is defining'}
+{'timestamp': (873.32, 878.0), 'text': ' their audience, right? An artist or manager that like, oh shit, who is this music really'}
+{'timestamp': (878.0, 882.04), 'text': " for that we're working on? So, you know, what's the best way to go about doing that? Is"}
+{'timestamp': (882.04, 886.56), 'text': ' there an exercise that you like to use when you start working on a new project'}
+{'timestamp': (886.56, 890.84), 'text': ' that helps you define what the fan base is gonna be'}
+{'timestamp': (890.84, 892.16), 'text': " and the audience that you're going after?"}
+{'timestamp': (892.16, 893.8), 'text': ' Is there anything in particular'}
+{'timestamp': (893.8, 896.64), 'text': ' or is it just kind of over time'}
+{'timestamp': (896.64, 900.16), 'text': ' you start to just get a better understanding'}
+{'timestamp': (900.16, 902.32), 'text': " of where music's going and where something might fit?"}
+{'timestamp': (902.32, 903.6), 'text': " I think it's both."}
+{'timestamp': (903.6, 908.48), 'text': ' I think for an upcoming artist, your bass is so small.'}
+{'timestamp': (909.04, 914.0), 'text': " Whoever gravitates to it is your audience. And it's on you to learn that, like, you should definitely"}
+{'timestamp': (914.0, 918.72), 'text': " learn them. Not to sound weird, but like go through there. You don't, you don't have a lot for"}
+{'timestamp': (918.72, 925.3), 'text': " understanding all of them. Go through their Instagram, see what they're into. Have an understanding who are the people you're gravitating to. You know who you're speaking to,"}
+{'timestamp': (925.3, 926.48), 'text': ' so you know how to speak to them.'}
+{'timestamp': (926.48, 928.1), 'text': ' Right, and I think the best way to do this,'}
+{'timestamp': (928.1, 929.8), 'text': ' literally go through your comments on Instagram,'}
+{'timestamp': (929.8, 931.68), 'text': ' and your comments on YouTube.'}
+{'timestamp': (931.68, 933.1), 'text': " You know, if you're sound stuff on iTunes,"}
+{'timestamp': (933.1, 934.84), 'text': " you'll see feedback on iTunes too,"}
+{'timestamp': (934.84, 937.88), 'text': ' just like go on Twitter and like research yourself'}
+{'timestamp': (937.88, 948.72), 'text': " and who these people are that are speaking about you, you and then go into each of them. You'll start realizing there's a common thread between like the people you're clicking on on Twitter and the people you're"}
+{'timestamp': (948.72, 952.24), 'text': " understanding, I'm like, wait, hold up. They also like these artists. They also like"}
+{'timestamp': (952.24, 957.12), 'text': ' these brands. You start seeing those things, right? But then for artists that are'}
+{'timestamp': (957.12, 968.92), 'text': " established, you kind of realize you open this up. You're like, oh, you do have a base now. You have a foundation. We have to get you bigger. Or we want to be bigger. So we're helping you get bigger and then it becomes understanding"}
+{'timestamp': (968.92, 974.92), 'text': " the artist. What else are you into? Because each pocket of a lifestyle is, there's a niche"}
+{'timestamp': (974.92, 978.96), 'text': " online that's living there. And all you need to do is just tap into them and message to"}
+{'timestamp': (978.96, 987.72), 'text': " them, right? So it's like understanding the artist is the second thing. It's like, what are you into as an artist? Outside of music, like, into video games, into sneakers, into fashion,"}
+{'timestamp': (987.72, 990.08), 'text': ' whatever food, whatever may be.'}
+{'timestamp': (990.08, 992.56), 'text': ' And you start identifying those people'}
+{'timestamp': (992.56, 993.6), 'text': ' and then you start hitting them.'}
+{'timestamp': (993.6, 995.28), 'text': ' And kind of like the two ways that I look at it.'}
+{'timestamp': (995.28, 998.28), 'text': ' In terms of just a piggyback off that for a second,'}
+{'timestamp': (998.28, 999.96), 'text': ' for the people that are just starting out,'}
+{'timestamp': (999.96, 1005.0), 'text': " how did they even get that? Is the best way, I mean, we've talked to a number of people"}
+{'timestamp': (1005.0, 1007.32), 'text': " where it's like, when you first start now,"}
+{'timestamp': (1007.32, 1009.08), 'text': " it's about quantity over quality."}
+{'timestamp': (1009.08, 1011.2), 'text': " You've got to start just putting out a ton of music"}
+{'timestamp': (1011.2, 1014.16), 'text': ' to like get that feedback, to see what people are saying'}
+{'timestamp': (1014.16, 1017.12), 'text': ' and to like not necessarily hold back on everything.'}
+{'timestamp': (1017.12, 1019.44), 'text': ' You know, is that something that you think people start'}
+{'timestamp': (1019.44, 1029.16), 'text': " now should do is like, yo, just let it rip. just go. Just go because it becomes a part of your artist development story, as a part of your process story, if you're documenting that online"}
+{'timestamp': (1029.16, 1033.42), 'text': " on socials, which is like the legitimate point of why the internet even exists, you're"}
+{'timestamp': (1033.42, 1038.0), 'text': " giving people this behind the scenes look of how you're getting better and better. And"}
+{'timestamp': (1038.0, 1043.32), 'text': ' when you bring someone that in depth into the creation process, they fall in love with'}
+{'timestamp': (1043.32, 1047.12), 'text': " you more, in my opinion, I think that they feel like they're there with you"}
+{'timestamp': (1047.12, 1048.16), 'text': ' that they wanna see you grow.'}
+{'timestamp': (1048.16, 1049.16), 'text': ' They build a vested interest.'}
+{'timestamp': (1049.16, 1050.4), 'text': " You're letting them track with your trajectory."}
+{'timestamp': (1050.4, 1051.4), 'text': ' Absolutely, and feed them.'}
+{'timestamp': (1051.4, 1054.0), 'text': " You gotta feel whoever's listening, feed your fans."}
+{'timestamp': (1054.0, 1055.04), 'text': ' And any of your fans.'}
+{'timestamp': (1055.04, 1056.96), 'text': ' I think people try to cheat that,'}
+{'timestamp': (1056.96, 1058.24), 'text': " not realizing that you can't,"}
+{'timestamp': (1058.24, 1065.64), 'text': ' like they just wanna get to the point of deepest impact as quickly as possible. And I think that leads people to a lot of things'}
+{'timestamp': (1065.64, 1068.36), 'text': ' like buying engagement, so buying likes,'}
+{'timestamp': (1068.36, 1071.18), 'text': ' buying followers, buying views, buying streams.'}
+{'timestamp': (1072.44, 1075.2), 'text': ' I guess I will always talk about like the detriment to that.'}
+{'timestamp': (1075.2, 1076.84), 'text': ' Anytime somebody brings that in a conversation,'}
+{'timestamp': (1076.84, 1078.32), 'text': " they're always talking about the downside."}
+{'timestamp': (1078.32, 1080.0), 'text': " But it's something that's widely practiced."}
+{'timestamp': (1080.0, 1083.76), 'text': ' So do you see any pluses, say any part of that?'}
+{'timestamp': (1083.76, 1085.52), 'text': ' And do you see any minuses to that part of that and do you see any minuses to that?'}
+{'timestamp': (1085.52, 1089.28), 'text': " There is no pluses to buying anything that's not real. I can't even like."}
+{'timestamp': (1089.28, 1093.28), 'text': " Well, don't say that because when I was in high school, no, sorry, when I was in college,"}
+{'timestamp': (1093.28, 1097.84), 'text': ' I was a sophomore. I bought a fake Louis bag and it was a major plus because I pulled up with'}
+{'timestamp': (1097.84, 1105.6), 'text': ' its campus and I look like that dude. Yeah, then you pulled up outside of campus, but I know what a real Louis bag looks. And then I never even made it that far.'}
+{'timestamp': (1105.6, 1108.32), 'text': ' I was running down a subway step.'}
+{'timestamp': (1108.32, 1109.64), 'text': ' This strap broke.'}
+{'timestamp': (1109.64, 1111.72), 'text': ' So that was the end of it.'}
+{'timestamp': (1111.72, 1113.16), 'text': ' That strap broke.'}
+{'timestamp': (1113.16, 1116.32), 'text': ' And I threw away a carry of my stuff in my arms.'}
+{'timestamp': (1116.32, 1118.8), 'text': ' This is a sad story.'}
+{'timestamp': (1118.8, 1120.52), 'text': ' I could write for Disney.'}
+{'timestamp': (1120.52, 1122.4), 'text': ' These are no power wing tails.'}
+{'timestamp': (1122.4, 1123.24), 'text': ' Depends, man.'}
+{'timestamp': (1123.24, 1126.2), 'text': ' Depends on the of editing the way down (Laughing)'}
+{'timestamp': (1129.28, 1133.2), 'text': ' Someone in Ryan tomatoes with like a breakdown paragraph (Laughing)'}
+{'timestamp': (1135.2, 1137.0), 'text': ' Where the dummy a print hit the pavement'}
+{'timestamp': (1143.44, 1143.64), 'text': ' So no positive what did the drawbacks the drawbacks is like right we in 2000 be super transparent'}
+{'timestamp': (1145.6, 1148.66), 'text': ' The way you make money as an artist or at least a majority of your pie of your profit'}
+{'timestamp': (1148.66, 1151.14), 'text': ' and your revenue or revenue at the end of the year'}
+{'timestamp': (1151.14, 1153.3), 'text': ' comes from touring and merch.'}
+{'timestamp': (1153.3, 1155.7), 'text': " No matter how we shake it, that's just what it is."}
+{'timestamp': (1155.7, 1159.9), 'text': ' Fake followers does not equate to real hard tickets being so.'}
+{'timestamp': (1159.9, 1162.34), 'text': " So that's just where it is, right?"}
+{'timestamp': (1162.34, 1165.04), 'text': " So that's one from like when you actually made it stand more."}
+{'timestamp': (1165.04, 1167.76), 'text': ' But the other part is like you, I just mentioned it,'}
+{'timestamp': (1167.76, 1169.56), 'text': ' you have to learn your fans.'}
+{'timestamp': (1169.56, 1171.92), 'text': ' You have to be able to click on the comment on Instagram,'}
+{'timestamp': (1171.92, 1174.04), 'text': ' go through their Instagram and be like,'}
+{'timestamp': (1174.04, 1176.88), 'text': " oh yeah, they all sweet, they're into the shit that I'm into,"}
+{'timestamp': (1176.88, 1180.76), 'text': " that I'm acquiring the people that want to acquire."}
+{'timestamp': (1180.76, 1186.68), 'text': " A fake follower is gonna get you nothing. You're gonna have to go into it. There's like no photos, fake bio link."}
+{'timestamp': (1186.68, 1187.88), 'text': ' Does it not even know where it is?'}
+{'timestamp': (1187.88, 1189.04), 'text': " There's no value."}
+{'timestamp': (1189.04, 1190.72), 'text': " There's no real value."}
+{'timestamp': (1190.72, 1192.04), 'text': " But I think what they're going into"}
+{'timestamp': (1192.04, 1194.0), 'text': ' is thinking that if they are going to somebody,'}
+{'timestamp': (1194.0, 1196.12), 'text': " or they're trying to appeal to somebody like a complex,"}
+{'timestamp': (1196.12, 1197.96), 'text': " or they're trying to catch the attention of a brand"}
+{'timestamp': (1197.96, 1207.12), 'text': ' or a label or anything like this, they want to have at least the optic of, you know, I have 750,000 people following me.'}
+{'timestamp': (1207.12, 1209.16), 'text': " That's arrogant as hell."}
+{'timestamp': (1209.16, 1210.16), 'text': ' It is.'}
+{'timestamp': (1210.16, 1214.0), 'text': " That's super arrogant because that's you assuming that these like 4 to 500 fashion brands"}
+{'timestamp': (1214.0, 1218.52), 'text': " and these top media companies like a complex and fader don't have social media management"}
+{'timestamp': (1218.52, 1220.04), 'text': ' teams in the building.'}
+{'timestamp': (1220.04, 1224.72), 'text': " That's not even like don't go there. (Laughing)"}
+{'timestamp': (1224.72, 1226.32), 'text': " If you're up and coming out, just put it out."}
+{'timestamp': (1226.32, 1227.32), 'text': " Don't even look at the number."}
+{'timestamp': (1227.32, 1228.4), 'text': ' Go to the next day.'}
+{'timestamp': (1228.4, 1230.08), 'text': ' Like let it be just hard work.'}
+{'timestamp': (1230.08, 1233.92), 'text': ' Be concerned with just getting it out and cost 100%.'}
+{'timestamp': (1233.92, 1236.64), 'text': ' And getting your music out is like important.'}
+{'timestamp': (1236.64, 1237.64), 'text': " I think that's it."}
+{'timestamp': (1237.64, 1238.64), 'text': ' For sure.'}
+{'timestamp': (1238.64, 1242.16), 'text': " I mean, there's we continue to ask people that same question"}
+{'timestamp': (1242.16, 1246.72), 'text': ' because we want to reiterate that point like over and over and over again.'}
+{'timestamp': (1246.72, 1254.24), 'text': " So that, you know, if you don't understand that from the first person that we talk to, you get it from the second or the third or the fourth person because it's like,"}
+{'timestamp': (1254.4, 1257.76), 'text': " it's really about trying to build value no matter what."}
+{'timestamp': (1257.76, 1263.68), 'text': ' In the fake shit, the plays, the streams or whatever, you know, these companies to fill in your middle of the road streams.'}
+{'timestamp': (1263.68, 1265.26), 'text': " Yeah, it's just it's not gonna work"}
+{'timestamp': (1265.26, 1270.66), 'text': " There are other growth hacks out there that provide real value and it's it's about you"}
+{'timestamp': (1270.98, 1274.54), 'text': " Doing the work exactly. It's about really putting out a bunch of music"}
+{'timestamp': (1274.54, 1281.46), 'text': " You may find that like oh you drop a song every Friday for a month like you're seeing a lot more real traction from that"}
+{'timestamp': (1281.46, 1286.56), 'text': " That's the growth hack so then the hack becomes our every single Friday for the next year. I'm going to continue to drop"}
+{'timestamp': (1286.56, 1288.16), 'text': ' music. Right.'}
+{'timestamp': (1288.16, 1290.08), 'text': ' Build up the cadence you can all discovery'}
+{'timestamp': (1290.08, 1290.88), 'text': ' reform. Right. Right.'}
+{'timestamp': (1290.88, 1291.92), 'text': ' You do. Yeah.'}
+{'timestamp': (1291.92, 1293.84), 'text': " And that's where you need shortcuts."}
+{'timestamp': (1293.84, 1295.76), 'text': ' Like there is really no shortcuts to this.'}
+{'timestamp': (1295.76, 1296.72), 'text': ' Like at all.'}
+{'timestamp': (1296.72, 1300.8), 'text': " So then that's like a perfect segue into the next part here. Like"}
+{'timestamp': (1300.8, 1306.08), 'text': ' it can be overwhelming for people just starting out with all the platforms.'}
+{'timestamp': (1306.08, 1309.64), 'text': " There's something new popping up every other month."}
+{'timestamp': (1309.64, 1315.4), 'text': " It's kind of leveled out where there's three or four really big ones."}
+{'timestamp': (1315.4, 1321.56), 'text': ' Do you think that artists starting out should just narrow in on one or two platforms that'}
+{'timestamp': (1321.56, 1325.2), 'text': " they love or that they're really good at as opposed to like being on four or"}
+{'timestamp': (1325.2, 1330.48), 'text': " five and being like average across everything. I mean, I think it depends on one like what you're"}
+{'timestamp': (1330.48, 1336.72), 'text': " you're capable of as an artist. So if you have a team like you should be able to put content up"}
+{'timestamp': (1336.72, 1340.64), 'text': " in every single I'm assuming you're talking about social platforms or we talk about DSPs."}
+{'timestamp': (1340.64, 1346.08), 'text': ' Social platforms. Social platforms. Yeah. Yeah. you should be able to at least mirror'}
+{'timestamp': (1346.08, 1350.04), 'text': " everything you're putting up in one, you know, in one platform that you're"}
+{'timestamp': (1350.04, 1354.44), 'text': " focusing on across all just presence there, right? Even if it's just to own"}
+{'timestamp': (1354.44, 1358.8), 'text': ' the name, just to even start there, right? To have it own the name, right? And then'}
+{'timestamp': (1358.8, 1362.04), 'text': ' it becomes you can literally connect your Instagram and your Facebook'}
+{'timestamp': (1362.04, 1366.6), 'text': " L push. But you know, there's is It's 2019. It's ways to be everywhere."}
+{'timestamp': (1366.6, 1371.64), 'text': ' Now as far as where you spend your time on an engagement level, like when you start'}
+{'timestamp': (1371.64, 1376.36), 'text': ' talking to fans, when you start, you figure out your flow.'}
+{'timestamp': (1376.36, 1378.36), 'text': ' What are you really good at?'}
+{'timestamp': (1378.36, 1380.68), 'text': ' Are you a very visual artist?'}
+{'timestamp': (1380.68, 1381.68), 'text': " So it's understanding you, right?"}
+{'timestamp': (1381.68, 1383.32), 'text': ' You as an artist, you have to understand yourself.'}
+{'timestamp': (1383.32, 1385.62), 'text': ' First, your team has to understand how you move,'}
+{'timestamp': (1385.62, 1388.32), 'text': " first and foremost, but if you're a visual artist"}
+{'timestamp': (1388.32, 1391.4), 'text': ' and you live and die by photography'}
+{'timestamp': (1391.4, 1394.68), 'text': ' and good visuals and good videos,'}
+{'timestamp': (1394.68, 1396.8), 'text': ' then you bank on Instagram.'}
+{'timestamp': (1396.8, 1399.48), 'text': ' You bank on a much more visual platform.'}
+{'timestamp': (1399.48, 1401.76), 'text': " But if you're an artist where you're really good"}
+{'timestamp': (1401.76, 1406.0), 'text': ' at one liners and you know how to like snap back at fans'}
+{'timestamp': (1406.0, 1409.88), 'text': " on like a positive level or snap back at what's happening culturally."}
+{'timestamp': (1409.88, 1410.88), 'text': " Then you yeah, you're staying on Twitter."}
+{'timestamp': (1410.88, 1414.16), 'text': " I think you'll understand it yourself, but yeah, you can put your focus in one, but it"}
+{'timestamp': (1414.16, 1417.92), 'text': " doesn't mean you completely just desert the others."}
+{'timestamp': (1417.92, 1423.16), 'text': ' I think you have to get smart with just, you know, reusing your content at the beginning.'}
+{'timestamp': (1423.16, 1426.44), 'text': ' Right. So on which one you feed most consistently and how, yeah.'}
+{'timestamp': (1426.44, 1427.44), 'text': ' Yeah.'}
+{'timestamp': (1427.44, 1428.44), 'text': ' Like you can check in on Instagram.'}
+{'timestamp': (1428.44, 1432.08), 'text': ' If you are good with the snapbacks and like the one-minors, you just turn it into a caption.'}
+{'timestamp': (1432.08, 1433.08), 'text': ' Yeah.'}
+{'timestamp': (1433.08, 1434.08), 'text': ' What a pick and just let that be it.'}
+{'timestamp': (1434.08, 1436.08), 'text': " Like you don't necessarily have to be on stories doing that shit."}
+{'timestamp': (1436.08, 1437.08), 'text': ' Yeah.'}
+{'timestamp': (1437.08, 1447.06), 'text': ' But then you just like on Twitter firing you know, because people just start, now there is always'}
+{'timestamp': (1447.06, 1449.16), 'text': ' the case of FOMO, you know what I mean?'}
+{'timestamp': (1449.16, 1450.68), 'text': " Like you're missing it and it's like,"}
+{'timestamp': (1450.68, 1451.76), 'text': ' just bring it back to yourself.'}
+{'timestamp': (1451.76, 1455.8), 'text': ' What are you love doing and then work from there?'}
+{'timestamp': (1455.8, 1456.64), 'text': ' Yeah.'}
+{'timestamp': (1456.64, 1459.52), 'text': ' And be like, all right cool, my main focus is gonna be Twitter'}
+{'timestamp': (1459.52, 1461.56), 'text': ' and then I can just reproduce this shit.'}
+{'timestamp': (1461.56, 1465.48), 'text': " And then if you have a manager or you have someone else that's working with you,"}
+{'timestamp': (1465.48, 1466.84), 'text': ' a graphic designer on your team,'}
+{'timestamp': (1466.84, 1470.0), 'text': " then like that's some stuff that you can offload to them."}
+{'timestamp': (1470.0, 1471.36), 'text': " That's like the alley of,"}
+{'timestamp': (1471.36, 1473.12), 'text': ' hey man, take this thing off Twitter.'}
+{'timestamp': (1473.12, 1473.72), 'text': ' You know,'}
+{'timestamp': (1473.72, 1474.72), 'text': ' just like,'}
+{'timestamp': (1474.72, 1475.72), 'text': ' just like,'}
+{'timestamp': (1475.72, 1476.56), 'text': ' or the other way around,'}
+{'timestamp': (1476.56, 1477.4), 'text': " whatever's on Instagram,"}
+{'timestamp': (1477.4, 1478.96), 'text': ' copy and paste it, put it on Twitter,'}
+{'timestamp': (1478.96, 1486.68), 'text': ' let that roll until we can get smarter with how we use each platform. But these be present, have a presence in each one,'}
+{'timestamp': (1486.68, 1489.84), 'text': ' and time will tell as far as you having more hands,'}
+{'timestamp': (1489.84, 1493.16), 'text': ' tell about having more people around you'}
+{'timestamp': (1493.16, 1496.04), 'text': ' that can potentially completely take that load off'}
+{'timestamp': (1496.04, 1497.84), 'text': ' or that whole platform off your hands'}
+{'timestamp': (1497.84, 1499.2), 'text': ' so they can just run it themselves.'}
+{'timestamp': (1499.2, 1501.64), 'text': " I think that'll happen as you develop as an artist."}
+{'timestamp': (1501.64, 1505.72), 'text': ' The next layer of that then becomes metrics to look at.'}
+{'timestamp': (1505.72, 1508.76), 'text': ' So what are some key metrics that you look at'}
+{'timestamp': (1508.76, 1511.6), 'text': ' with some of the big brands or the big acts that you work with?'}
+{'timestamp': (1511.6, 1514.84), 'text': ' Is it like, all right, obviously engagement is huge,'}
+{'timestamp': (1514.84, 1516.96), 'text': ' but is it more so comments over Lexus?'}
+{'timestamp': (1516.96, 1519.28), 'text': ' Is there any one thing in particular that shows like,'}
+{'timestamp': (1519.28, 1522.48), 'text': ' okay, you can, you see it in this really small space'}
+{'timestamp': (1522.48, 1523.6), 'text': " and because it's happening here,"}
+{'timestamp': (1523.6, 1525.52), 'text': " you know it's gonna just like skyrocket."}
+{'timestamp': (1525.52, 1527.2), 'text': ' And I look at comments a lot.'}
+{'timestamp': (1527.2, 1528.96), 'text': ' I even more specific.'}
+{'timestamp': (1528.96, 1531.84), 'text': " I look at people's comments where they tagged their friends."}
+{'timestamp': (1531.84, 1535.68), 'text': " Don't let them know that this is happening because you can, you can buy fake likes."}
+{'timestamp': (1535.68, 1538.32), 'text': ' Comments you learn so much.'}
+{'timestamp': (1538.32, 1539.04), 'text': " That's a good point."}
+{'timestamp': (1539.04, 1540.0), 'text': ' And comment.'}
+{'timestamp': (1540.0, 1547.44), 'text': " And that's a, that's a actual effort from a person. If you can get someone to comment, they will like yourself because it's easier to like it."}
+{'timestamp': (1547.44, 1550.8), 'text': " Yeah, I appreciate our Instagram is kind of adding that layering now where they're making comments,"}
+{'timestamp': (1550.8, 1554.08), 'text': ' especially transparent, because now you can like a comment as well.'}
+{'timestamp': (1554.08, 1554.4), 'text': ' Yeah.'}
+{'timestamp': (1554.4, 1558.08), 'text': " So if somebody's tagging people or like that comment, like you can reply and you can like."}
+{'timestamp': (1558.08, 1558.24), 'text': ' Yeah.'}
+{'timestamp': (1558.24, 1560.88), 'text': " So you're adding another depth of engagement to that."}
+{'timestamp': (1560.88, 1569.36), 'text': " So you really are making comments a true or metric. You're not just putting it out there and just saying, Oh, okay, this picture has 200 likes, but it has 197 comments. So clearly,"}
+{'timestamp': (1569.36, 1573.68), 'text': " there's like some action happening underneath this. Like you have a comment that has 50 likes on"}
+{'timestamp': (1573.68, 1579.84), 'text': ' it and it has 25 responses of its own. And you know, it does make it a, it makes it a bit more of an'}
+{'timestamp': (1579.84, 1589.34), 'text': " intuitive metric. Yeah. And I have like a theory, this didn't come from like Instagram or anything like but actually like just from studying each platform especially Instagram I've come"}
+{'timestamp': (1589.34, 1594.84), 'text': " to realize that since things don't isn't on an order anymore by time and is in order"}
+{'timestamp': (1594.84, 1602.6), 'text': ' by like the comments like will flow you up so the more correct you tend to be the first'}
+{'timestamp': (1602.6, 1605.8), 'text': " two or three on another person's timeline. That's a good point."}
+{'timestamp': (1605.8, 1607.2), 'text': ' I was like, hey, this is pop-up.'}
+{'timestamp': (1607.2, 1611.2), 'text': " Yeah, I'm waiting for an official statement from missing."}
+{'timestamp': (1611.2, 1612.8), 'text': " Oh, that's actually correct."}
+{'timestamp': (1612.8, 1616.0), 'text': ' So this is just me, this is a theory of mine that works.'}
+{'timestamp': (1616.0, 1617.0), 'text': ' Right, right.'}
+{'timestamp': (1617.0, 1620.2), 'text': ' And more comments you have, you will flow above everyone else on a time.'}
+{'timestamp': (1620.2, 1626.8), 'text': ' So then how does an artist take that metric and then apply it to something actionable going forward?'}
+{'timestamp': (1626.8, 1631.76), 'text': " Is it like that it's really about mining that and being like, okay, cool over the last three posts."}
+{'timestamp': (1631.76, 1637.6), 'text': " I got X amount of comments and then it's about trying to reproduce that that same sort of content in"}
+{'timestamp': (1637.6, 1642.24), 'text': ' a new way, right? And talk to your friends. You engage put it on your'}
+{'timestamp': (1642.24, 1647.0), 'text': ' stories, say new posts go like in comment. like you kind of have you kind of have to constantly'}
+{'timestamp': (1647.0, 1653.6), 'text': ' Double back and hammer in that they need to be engaging with this in some way like you can do a call to action'}
+{'timestamp': (1653.6, 1659.8), 'text': " I think that's something that people have gotten too proud for where those of us who have worked in and around"}
+{'timestamp': (1660.4, 1662.4), 'text': ' Media particularly'}
+{'timestamp': (1662.6, 1665.0), 'text': ' Digital media when it was new media, right?'}
+{'timestamp': (1665.0, 1667.0), 'text': ' Like you called action.'}
+{'timestamp': (1667.0, 1668.0), 'text': ' That was all we had.'}
+{'timestamp': (1668.0, 1670.0), 'text': ' Yeah, that was the only thing that I said.'}
+{'timestamp': (1670.0, 1671.0), 'text': ' Like new media.'}
+{'timestamp': (1671.0, 1674.0), 'text': ' Right now, go listen, go stream, click here.'}
+{'timestamp': (1674.0, 1676.0), 'text': ' Like all you had was that call to action.'}
+{'timestamp': (1676.0, 1680.0), 'text': " I think now everything is so in line, whether it's a tweet and you just put a link in there"}
+{'timestamp': (1680.0, 1707.16), 'text': " you're like, all right, jump to the world. Everyone is, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, they're too cool about it. And again, this goes back to engagement. You can't be too cool to want to connect with the people"}
+{'timestamp': (1707.16, 1708.72), 'text': ' you want to connect with you.'}
+{'timestamp': (1708.72, 1709.56), 'text': ' Right.'}
+{'timestamp': (1709.56, 1711.52), 'text': ' And to spend their money.'}
+{'timestamp': (1711.52, 1713.44), 'text': ' You want them to spend their money.'}
+{'timestamp': (1713.44, 1716.76), 'text': " At some point, you're going to ask them to come to a show"}
+{'timestamp': (1716.76, 1718.68), 'text': ' or buy a piece of merch.'}
+{'timestamp': (1718.68, 1722.6), 'text': " If you're not going the extra mile to talk to them,"}
+{'timestamp': (1722.6, 1728.96), 'text': " if I'm seeing you in the club, I don't want to send you a bottle I want to have a shot with you right exactly. I want to actually engage with you"}
+{'timestamp': (1728.96, 1732.02), 'text': " I don't want to look at you on high right my tribute to you"}
+{'timestamp': (1732.02, 1737.4), 'text': " I'm not gonna pay my tides and offering you yeah, no meet me at the bar. Yeah, let's have a glass of the shittiest vodka"}
+{'timestamp': (1737.4, 1746.0), 'text': " They have a much connector so that as you build and as I build we can come back And we can split a bottle of water That's exactly the way to look at it"}
+{'timestamp': (1746.0, 1752.0), 'text': " Because it's backwards now like social existed for people to have one-on-one connection"}
+{'timestamp': (1752.0, 1754.0), 'text': ' It literally was designed for this'}
+{'timestamp': (1754.0, 1756.0), 'text': " But yet artists don't do this"}
+{'timestamp': (1756.0, 1758.0), 'text': " Artists don't speak to their fans"}
+{'timestamp': (1758.0, 1764.0), 'text': ' Artists like not even the fuck to buy now like asking what do you think of these drums?'}
+{'timestamp': (1764.0, 1768.64), 'text': ' Like get really into that conversation Before you buy tell me how you feel about'}
+{'timestamp': (1768.64, 1773.32), 'text': ' yeah like what do you like about this change introduce them to a pre-mix yeah here I put'}
+{'timestamp': (1773.32, 1776.76), 'text': " this link up give it a listen I'm gonna keep it up for the week let me know what you"}
+{'timestamp': (1776.76, 1779.04), 'text': " think I'm going back in the studio end of the week I'm changing that's an"}
+{'timestamp': (1779.04, 1788.96), 'text': " excellent point you're such a good people into the creative and I've when I've managed like I've we put out pre mixes or we put a verse up on IG stories or you do like these little things and you say,"}
+{'timestamp': (1788.96, 1793.44), 'text': " you know what? Let's get their input. Yeah, like let the fans executive see if it's yeah,"}
+{'timestamp': (1793.64, 1797.56), 'text': " because they are investors. Yeah, and they just familiarity. That's the other."}
+{'timestamp': (1797.56, 1807.04), 'text': " It's like you heard that said before those eight bars were they get love. I heard that eight bars. So then you hear the final, you're like immediately assuming like nature, you're like,"}
+{'timestamp': (1807.04, 1808.16), 'text': ' wait, I heard that before.'}
+{'timestamp': (1808.16, 1808.96), 'text': ' Yeah, exactly.'}
+{'timestamp': (1808.96, 1814.08), 'text': " We've gotten away from because, I mean, and this is the, there's a separate old-ass debate"}
+{'timestamp': (1814.08, 1815.08), 'text': " that we're going to have."}
+{'timestamp': (1815.08, 1817.92), 'text': " We're going to bring this back for a conversation where we just complain about the state of"}
+{'timestamp': (1817.92, 1818.92), 'text': ' rap.'}
+{'timestamp': (1818.92, 1825.1), 'text': " But quick, it's like, I think rappers like when they went to radio when they did mixed tapes. I think you release a freestyle."}
+{'timestamp': (1825.1, 1825.6), 'text': ' Yeah.'}
+{'timestamp': (1825.6, 1828.84), 'text': ' That verse ends up being your favorite verse from a song on the record, but you know'}
+{'timestamp': (1828.84, 1830.92), 'text': " it inside and out because you've seen it at shows."}
+{'timestamp': (1830.92, 1831.92), 'text': ' Yeah.'}
+{'timestamp': (1831.92, 1834.28), 'text': " Because you've heard it on a freezer because like you it's a base."}
+{'timestamp': (1834.28, 1837.56), 'text': " It's literally 100% and they know it's that verse."}
+{'timestamp': (1837.56, 1845.36), 'text': " That's why they go out and say it in every fucking. That's why they say it on the DVD. There's no white DVD. Exactly. And you can add, live the shit out of it."}
+{'timestamp': (1845.36, 1848.72), 'text': " So when you put a beat behind it and put a chorus on it, it's now your favorite shit."}
+{'timestamp': (1848.72, 1849.72), 'text': ' Yeah.'}
+{'timestamp': (1849.72, 1852.12), 'text': " And you can't escape it being your favorite shit and people get away from shit."}
+{'timestamp': (1852.12, 1856.68), 'text': " They're so concerned with shit being new and with shit being shiny that they forget"}
+{'timestamp': (1856.68, 1858.36), 'text': ' about shit being loved.'}
+{'timestamp': (1858.36, 1865.0), 'text': " Yeah. And it's just, it's what we've fully gone away from again engagement. We they don't care about engagement anymore."}
+{'timestamp': (1865.0, 1867.92), 'text': " Yeah, I do want to put it on display like they're too cool."}
+{'timestamp': (1867.92, 1868.42), 'text': ' Yeah, absolutely.'}
+{'timestamp': (1868.42, 1869.6), 'text': ' Just back in my day.'}
+{'timestamp': (1869.6, 1870.76), 'text': ' Yeah.'}
+{'timestamp': (1870.76, 1874.24), 'text': " But I think there's two people that have done that really well."}
+{'timestamp': (1874.24, 1877.68), 'text': ' Somebody like Gambino from like jump.'}
+{'timestamp': (1877.68, 1880.28), 'text': ' If you go back, you can see shit.'}
+{'timestamp': (1880.28, 1883.76), 'text': ' You can see videos of him at NYU doing freestyle.'}
+{'timestamp': (1883.76, 1885.56), 'text': ' Like I think the one cool thing about him'}
+{'timestamp': (1885.56, 1887.4), 'text': ' is that one of the cool things about him'}
+{'timestamp': (1887.4, 1891.24), 'text': ' is that you can see that progression of where he was just'}
+{'timestamp': (1891.24, 1893.6), 'text': ' like really trying to wrap and try and figure this shit out'}
+{'timestamp': (1893.6, 1896.28), 'text': ' and like, you know, it was super quirky'}
+{'timestamp': (1896.28, 1898.72), 'text': ' and then you can see all the themes that he was talking about'}
+{'timestamp': (1898.72, 1902.16), 'text': ' and like how he got better and he was doing it in front of us,'}
+{'timestamp': (1902.16, 1907.24), 'text': " right? And then I was like, okay, rapping, then I'm gonna act. Then I'm gonna do stand up, then I'm gonna write,"}
+{'timestamp': (1907.24, 1910.96), 'text': " then it's, you know, and to see that progression"}
+{'timestamp': (1910.96, 1912.92), 'text': ' is what people fall in love with, right?'}
+{'timestamp': (1912.92, 1914.68), 'text': " And now you're like, oh my God, that's amazing."}
+{'timestamp': (1914.68, 1915.52), 'text': " But that's-"}
+{'timestamp': (1915.52, 1916.36), 'text': " It's transparency, not sorry."}
+{'timestamp': (1916.36, 1918.48), 'text': " Right, no, that's transparency, that's what allows him"}
+{'timestamp': (1918.48, 1925.0), 'text': " to do that. Absolutely He never opened that up that curtain up and we didn't know he was capable of all these other things"}
+{'timestamp': (1925.0, 1927.0), 'text': ' He came out to jump as a rapper'}
+{'timestamp': (1927.0, 1930.0), 'text': " Right right right stand up. I don't know if we would fully"}
+{'timestamp': (1931.0, 1937.0), 'text': " Accepted that I'm not a hundred percent sure yet. Yeah. Yeah, that's everyone who's stumbled upon the Explorer page"}
+{'timestamp': (1937.24, 1939.24), 'text': ' Do you know why the food'}
+{'timestamp': (1939.84, 1942.96), 'text': ' Instagram pages and all those videos and shit do so well'}
+{'timestamp': (1944.0, 1948.24), 'text': " It's because we love the process."}
+{'timestamp': (1948.24, 1949.08), 'text': ' Yeah.'}
+{'timestamp': (1949.08, 1950.4), 'text': ' More than we love the final product.'}
+{'timestamp': (1950.4, 1951.64), 'text': " And that's just human nature."}
+{'timestamp': (1951.64, 1954.52), 'text': ' So if you give people a glimpse into that process,'}
+{'timestamp': (1954.52, 1955.56), 'text': " show them how it's coming."}
+{'timestamp': (1955.56, 1957.16), 'text': ' It can be the most tedious shit ever.'}
+{'timestamp': (1957.16, 1959.64), 'text': ' But if you show them that process,'}
+{'timestamp': (1959.64, 1962.48), 'text': ' they will absolutely, like he can be the most'}
+{'timestamp': (1962.48, 1964.16), 'text': ' like the people who are tiny, bogey.'}
+{'timestamp': (1964.16, 1965.6), 'text': ' They will, now they will not start it started'}
+{'timestamp': (1965.6, 1969.52), 'text': " Cut you off, but it's going right where I was going. It's like they'll forgive you as"}
+{'timestamp': (1969.52, 1975.72), 'text': " well. You're looking at Kanye is perfect. But I saw it come together. Kanye is the prime"}
+{'timestamp': (1975.72, 1980.04), 'text': " example that right now. Obviously all the crazy political stuff that he's been saying over"}
+{'timestamp': (1980.04, 1987.22), 'text': " the last, right? He says slavery was a choice. I don't know. Like seriously. No, no, but it's been like that crazy where it's like people"}
+{'timestamp': (1987.22, 1990.02), 'text': ' that have always loved him and fought for him'}
+{'timestamp': (1990.02, 1991.18), 'text': ' because of what he represented.'}
+{'timestamp': (1991.18, 1992.5), 'text': ' He just completely went back on that.'}
+{'timestamp': (1992.5, 1993.66), 'text': ' So a whole other conversation.'}
+{'timestamp': (1993.66, 1997.62), 'text': ' But just to put a button on this part'}
+{'timestamp': (1997.62, 2000.66), 'text': ' about being transparent, showing people behind the curtain'}
+{'timestamp': (2000.66, 2003.02), 'text': ' a little bit, the Sunday service stuff.'}
+{'timestamp': (2003.02, 2006.8), 'text': " You know what I mean? It's like, for better, for worse, whatever you think about it,"}
+{'timestamp': (2006.8, 2009.76), 'text': " like there's a bunch of people a few weeks ago"}
+{'timestamp': (2009.76, 2011.36), 'text': ' when he had that one record that dropped'}
+{'timestamp': (2011.36, 2013.28), 'text': " and he's out there like stomping on the ground."}
+{'timestamp': (2013.28, 2014.28), 'text': ' They were like, oh shit.'}
+{'timestamp': (2014.28, 2015.84), 'text': " They're forgiving because of the process."}
+{'timestamp': (2015.84, 2016.68), 'text': ' Right.'}
+{'timestamp': (2016.68, 2020.24), 'text': ' See him long his way into the collective graces.'}
+{'timestamp': (2020.24, 2025.48), 'text': " So yeah, you're absolutely right and then I mean oh, yeah, I can't no, no, I mean it's hard"}
+{'timestamp': (2025.48, 2031.8), 'text': " It's it's for real. Yeah, it's but it's like but it's also like it hurts to say that though"}
+{'timestamp': (2031.8, 2035.66), 'text': " So because you're like you don't want to say that but it's like man, but for the people in this room"}
+{'timestamp': (2035.66, 2049.0), 'text': " You're forcing your brothers who are talking who we're talking around like you know what he's trying here's him Opening up like yeah like for those of us who see it as pandering. There are those who and hopefully they're listening, but there are those who see it as him"}
+{'timestamp': (2049.0, 2052.96), 'text': ' like bringing his way back into freedom or processing his way back.'}
+{'timestamp': (2052.96, 2053.46), 'text': ' Right. Right.'}
+{'timestamp': (2053.46, 2057.96), 'text': ' That word again, processing his way back into forgiveness and into being okay.'}
+{'timestamp': (2057.96, 2059.4), 'text': ' Right. And us being okay with him.'}
+{'timestamp': (2059.4, 2064.64), 'text': " And hopefully that's the case. Hopefully, hopefully, hopefully, hopefully, exactly, exactly."}
+{'timestamp': (2061.0, 2065.2), 'text': " Hopefully that's the case. Hopefully, hopefully, hopefully, exactly, exactly."}
+{'timestamp': (2065.2, 2070.04), 'text': " But, um, I remember before we get you out of here though, um, with everybody, we've kind"}
+{'timestamp': (2070.04, 2071.04), 'text': ' of been talking at the end.'}
+{'timestamp': (2071.04, 2073.56), 'text': ' We kind of want to make it super simple for the listeners.'}
+{'timestamp': (2073.56, 2078.92), 'text': ' Like, what are your top five tips for, you know, up and coming artists when it comes to building'}
+{'timestamp': (2078.92, 2087.68), 'text': " their fan base with the marketing that they're doing? Is there like, it doesn't have to be five maybe it's just like tricks and doesn't have to be five necessarily but like just some things to look for like if there"}
+{'timestamp': (2087.68, 2093.92), 'text': " was a short list on the undeniable so maybe that's better instead of top what are your undeniable"}
+{'timestamp': (2093.92, 2098.0), 'text': ' in terms of what you need to be looking for and what you need to be doing to build your audience.'}
+{'timestamp': (2098.0, 2111.24), 'text': " I mean one I think understand yourself understanding yourself as an artist understanding what you stand for understanding what your music stands for, understanding who you're trying to acquire as a fan base, who you're speaking to as far as like you're writing as a, as a songwriter."}
+{'timestamp': (2111.6, 2116.64), 'text': " That's one. I think that's like, has to always be to start because that foundation, as foundation, right?"}
+{'timestamp': (2117.0, 2126.32), 'text': " Then second is like consistency, just like consistency and not being, um, and being confident to the work you're creating, but be consistent."}
+{'timestamp': (2126.32, 2128.32), 'text': ' Like just continue to put stuff out.'}
+{'timestamp': (2128.32, 2129.64), 'text': " Because that'll help with the confidence too."}
+{'timestamp': (2129.64, 2130.64), 'text': ' Yes.'}
+{'timestamp': (2130.64, 2131.64), 'text': " It's just put stuff out."}
+{'timestamp': (2131.64, 2132.64), 'text': ' Get those reps to put this.'}
+{'timestamp': (2132.64, 2133.96), 'text': ' Put your reps in.'}
+{'timestamp': (2133.96, 2134.96), 'text': ' Put your stuff out.'}
+{'timestamp': (2134.96, 2135.96), 'text': ' Get your shots out there.'}
+{'timestamp': (2135.96, 2138.76), 'text': ' Put your stuff out on every platform that you can.'}
+{'timestamp': (2138.76, 2141.72), 'text': " If it's just out, just put your music out there."}
+{'timestamp': (2141.72, 2145.28), 'text': ' Post on socials. Put yourself out there, post on socials, you know, put yourself out there as much as possible.'}
+{'timestamp': (2145.28, 2150.48), 'text': " That's two, right? Talk to your fans, just three or engage with them and speak to them."}
+{'timestamp': (2150.48, 2155.12), 'text': " And for just like, yeah, don't hold back, man. A lot of artists really are like waiting for"}
+{'timestamp': (2155.12, 2159.2), 'text': ' the perfect moment to put self out. And the next thing you know, two years, food by.'}
+{'timestamp': (2160.72, 2164.64), 'text': ' Or what you were working on, that was of the moment. That was great.'}
+{'timestamp': (2164.64, 2165.88), 'text': ' Yeah. It is no longer'}
+{'timestamp': (2165.88, 2172.64), 'text': " it's dated you took you took you took it yeah you might have been ahead of it"}
+{'timestamp': (2172.64, 2179.08), 'text': ' yeah decided to wait to get like the perfect situation instead of just letting'}
+{'timestamp': (2179.08, 2182.44), 'text': ' it out and you waited for the perfect yeah instead of creating the perfect yeah'}
+{'timestamp': (2182.44, 2185.08), 'text': ' absolutely I think get creative get creative. Get creative.'}
+{'timestamp': (2185.08, 2187.32), 'text': " That's both from a visual standpoint"}
+{'timestamp': (2187.32, 2190.76), 'text': ' and a music standpoint and then like on a budget standpoint.'}
+{'timestamp': (2190.76, 2193.96), 'text': ' Stretch $100 out of 20 bucks.'}
+{'timestamp': (2193.96, 2194.96), 'text': ' Yeah.'}
+{'timestamp': (2194.96, 2197.92), 'text': ' Really like get creative with everything that touches.'}
+{'timestamp': (2197.92, 2201.08), 'text': " Such a gem because like people think you can't do anything."}
+{'timestamp': (2201.08, 2202.88), 'text': ' Oh, I only got $100 to $200.'}
+{'timestamp': (2202.88, 2208.08), 'text': " It's like, you know, instead of buying those Jordans, you could invest it back into, you know, a photo shoot"}
+{'timestamp': (2208.08, 2212.96), 'text': ' or, you know, paying somebody to do your artwork for your Instagram page or whatever.'}
+{'timestamp': (2212.96, 2216.56), 'text': " Like, that's an investment. That's how you should be thinking about the little bit of"}
+{'timestamp': (2216.56, 2218.6), 'text': ' money that you have on your first starting out.'}
+{'timestamp': (2218.6, 2225.8), 'text': " And don't think that you need a lot to like make the best product. Like, I mean, five, six music videos off the top of my head"}
+{'timestamp': (2225.8, 2227.6), 'text': ' right now that I was less than 200, 300.'}
+{'timestamp': (2227.6, 2229.36), 'text': " It's about being creative."}
+{'timestamp': (2229.36, 2231.72), 'text': " Yeah, it's just, and it's, you make it, you make it work."}
+{'timestamp': (2231.72, 2234.48), 'text': ' Yup, and I think the, coupled with that,'}
+{'timestamp': (2234.48, 2237.04), 'text': " it's about paying attention to what's going on"}
+{'timestamp': (2237.04, 2238.12), 'text': " on the networks that you're on."}
+{'timestamp': (2238.12, 2240.48), 'text': " So if Instagram's your thing, pay attention to Instagram."}
+{'timestamp': (2240.48, 2245.74), 'text': ' Look at the accounts that are popping read your comments everything that you were saying and then take that and be like okay'}
+{'timestamp': (2246.0, 2248.0), 'text': ' Those are your creative like'}
+{'timestamp': (2248.56, 2252.4), 'text': ' Pillars that you could or just a framework for how you should be thinking about it'}
+{'timestamp': (2252.4, 2257.52), 'text': " It's like okay. This is the guy that could use how can I what can I do with a hundred dollars that would get me x1z"}
+{'timestamp': (2257.52, 2261.12), 'text': ' You know whatever those things are so yeah, I think those are those are super clutch'}
+{'timestamp': (2261.12, 2263.84), 'text': ' So yeah, man, I appreciate you appreciate you coming through'}
+{'timestamp': (2264.8, 2266.4), 'text': ' Before you get out of here, you know,'}
+{'timestamp': (2266.4, 2269.92), 'text': " what are you working on that you're super excited about now?"}
+{'timestamp': (2269.92, 2272.04), 'text': ' And you know, let the people know where they can find you'}
+{'timestamp': (2272.04, 2272.88), 'text': ' and all that good stuff.'}
+{'timestamp': (2272.88, 2274.52), 'text': " I mean, there's a lot happening right now."}
+{'timestamp': (2274.52, 2276.44), 'text': " We're about to drop the fifth episode"}
+{'timestamp': (2276.44, 2279.08), 'text': " of the Kendra's Preach series with John Legend."}
+{'timestamp': (2279.08, 2286.96), 'text': " I was the best coming into next two weeks. We're need deep in like little Nas X stuff. Yo, yo, Billy Ray, Billy Ray."}
+{'timestamp': (2286.96, 2287.8), 'text': ' Absolutely.'}
+{'timestamp': (2287.8, 2290.36), 'text': " It's been an, it's been an in song of the century."}
+{'timestamp': (2290.36, 2291.36), 'text': ' Yo, yo, yo.'}
+{'timestamp': (2291.36, 2292.36), 'text': ' No, no, no.'}
+{'timestamp': (2292.36, 2293.36), 'text': ' Thank you.'}
+{'timestamp': (2293.36, 2294.36), 'text': " That's his that."}
+{'timestamp': (2294.36, 2295.84), 'text': ' I remember you telling me about that a couple of weeks ago.'}
+{'timestamp': (2295.84, 2297.36), 'text': ' And at first I was like, yeah, what?'}
+{'timestamp': (2297.36, 2309.36), 'text': " And then that captures, I think, what's going on in 2019 and was happening in internet and was happening in youth culture. Yeah, yeah, it's a perfect definition of that. And then there's a few up and coming"}
+{'timestamp': (2309.36, 2313.32), 'text': ' out like Dominic Fight is someone that like where you know where I have the Lee investing'}
+{'timestamp': (2313.32, 2317.76), 'text': ' in and as far as like work and love goes and we just want to see the next step of that'}
+{'timestamp': (2317.76, 2326.62), 'text': " because we think he's really, you know, he's the dumbest purpose for him. And Dominic is with us and a little TJ polo G on the hip hop side of Columbia"}
+{'timestamp': (2326.62, 2327.62), 'text': ' records.'}
+{'timestamp': (2327.62, 2332.92), 'text': " So there's a lot of magic that we're good for the rest of the next two, three years."}
+{'timestamp': (2332.92, 2333.92), 'text': ' You guys are covered.'}
+{'timestamp': (2333.92, 2334.92), 'text': ' Yeah.'}
+{'timestamp': (2334.92, 2337.24), 'text': ' Covered in on the management side man.'}
+{'timestamp': (2337.24, 2338.24), 'text': ' Coal array.'}
+{'timestamp': (2338.24, 2342.56), 'text': ' Coal array is going to be a jump coming out of 2019.'}
+{'timestamp': (2342.56, 2343.8), 'text': " I think it's going to be a good one."}
+{'timestamp': (2343.8, 2348.36), 'text': " Nice man. Onward, Fimey, John Vincent, Sal Sado's a name."}
+{'timestamp': (2348.36, 2349.2), 'text': ' Check him out.'}
+{'timestamp': (2349.2, 2350.2), 'text': ' On the underscore.'}
+{'timestamp': (2350.2, 2351.2), 'text': " I don't like the weird social media stuff."}
+{'timestamp': (2351.2, 2352.04), 'text': " No, no, it's all good."}
+{'timestamp': (2352.04, 2352.88), 'text': ' Oh good.'}
+{'timestamp': (2352.88, 2353.88), 'text': ' Hit the ghouls.'}
+{'timestamp': (2353.88, 2354.88), 'text': ' Hit the ghouls.'}
+{'timestamp': (2354.88, 2356.52), 'text': " I'm sure we'll run into each other."}
+{'timestamp': (2356.52, 2367.96), 'text': ' And now thanks for having me. Yeah is absolutely needed for a lot of up-and-coming artists, managers, and people that are trying to get into the businesses needed for them to get these types of conversations and gems'}
+{'timestamp': (2367.96, 2368.96), 'text': ' in for them to learn.'}
+{'timestamp': (2368.96, 2369.96), 'text': " I think it's super important."}
+{'timestamp': (2369.96, 2370.96), 'text': ' That was a good show.'}
+{'timestamp': (2370.96, 2371.96), 'text': ' Appreciate it, man.'}

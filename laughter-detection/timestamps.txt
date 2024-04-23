@@ -1,0 +1,8 @@
+sliced_chunk_1.wav 44.78
+sliced_chunk_2.wav 234.18
+sliced_chunk_3.wav 478.12
+sliced_chunk_4.wav 539.02
+sliced_chunk_5.wav 1124.24
+sliced_chunk_6.wav 1217.28
+sliced_chunk_7.wav 1709.98
+sliced_chunk_8.wav 1955.64

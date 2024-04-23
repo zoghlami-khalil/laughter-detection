@@ -1,0 +1,828 @@
+{'timestamp': (0.0, 4.32), 'text': ' This episode of Distractable is presented by The Sims. Ready to spark something?'}
+{'timestamp': (4.32, 6.24), 'text': ' Download The Sims 4 and play for free.'}
+{'timestamp': (8.4, 12.24), 'text': ' Good evening, gentle listener and welcome to Distractable.'}
+{'timestamp': (13.04, 17.04), 'text': ' This episode is even more gloriously chaotic than usual, (Laughing)'}
+{'timestamp': (17.04, 28.8), 'text': " as Moustacheau's Missouri mark hijacks the episode then grants twisted abilities. Wofl Wade sings an intermission trumpet solo and chooses communication, tastelessness"}
+{'timestamp': (28.8, 30.64), 'text': ' and transparency.'}
+{'timestamp': (30.64, 36.8), 'text': ' Bumblebee Bob explains when Flation and becomes an empathic vomit comet, from free beer'}
+{'timestamp': (36.8, 38.8), 'text': ' to an epic death duel.'}
+{'timestamp': (38.8, 39.8), 'text': ' Yes!'}
+{'timestamp': (39.8, 45.0), 'text': " It's time for G, holes, and powers."}
+{'timestamp': (45.0, 52.0), 'text': ' Now sit back and prepare to be distracted and enjoy the show.'}
+{'timestamp': (52.0, 55.0), 'text': ' Hello everyone, welcome back to another episode of Distractable.'}
+{'timestamp': (55.0, 57.0), 'text': " I'm Dave's host."}
+{'timestamp': (57.0, 58.0), 'text': ' Yes, you are.'}
+{'timestamp': (58.0, 61.0), 'text': ' Because I won.'}
+{'timestamp': (61.0, 62.0), 'text': ' Yep.'}
+{'timestamp': (62.0, 63.0), 'text': ' The last episode.'}
+{'timestamp': (63.0, 64.0), 'text': ' Faring Square.'}
+{'timestamp': (64.0, 65.0), 'text': " I'm joined as always by my friends Mark and Bob. Hey guys. Hmm. Yep. The last episode. Faring square."}
+{'timestamp': (65.0, 67.0), 'text': " Uh, I'm joined as always by my friends Mark and Bob."}
+{'timestamp': (67.0, 68.0), 'text': ' Hey guys.'}
+{'timestamp': (68.0, 69.0), 'text': ' Hello.'}
+{'timestamp': (69.0, 70.0), 'text': ' That was a...'}
+{'timestamp': (70.0, 72.48), 'text': " And if you've never been here, this is the show where one of us hosts are the two compete"}
+{'timestamp': (72.48, 73.48), 'text': ' for points.'}
+{'timestamp': (73.48, 76.56), 'text': " And at the end, weird shanigans happen and one of them is named the winner and doesn't"}
+{'timestamp': (76.56, 85.3), 'text': " believe it and has no faith and thinks there's nothing else going on mark. That's one. There's nothing else going on continue"}
+{'timestamp': (85.7, 91.26), 'text': ' Welcome everybody and welcome back. I will start off as the host with some small talk from the other two'}
+{'timestamp': (91.26, 94.66), 'text': ' How are you guys doing said to no? Okay?'}
+{'timestamp': (95.28, 99.22), 'text': " I'm good. I'm good. I'm good. I got a big water bottle full of water next to me"}
+{'timestamp': (99.22, 111.36), 'text': " I'm trying to hydrate. I'm trying to I'm trying to work out more in the new years my all of me is pretty sore right now Honestly mark that looks like a beer. It is a beer. Is that an alcohol free beer? Yeah"}
+{'timestamp': (112.0, 116.16), 'text': " Oh nice. That's good because I hate my imprisoned alcohol. I prefer it to be free"}
+{'timestamp': (118.32, 122.16), 'text': " Yeah, but I've been I'm trying to work out more in it. I'm sore"}
+{'timestamp': (122.32, 124.64), 'text': " But that's how it's supposed to be right. It's good"}
+{'timestamp': (124.96, 126.16), 'text': ' Yeah, it sucks at first'}
+{'timestamp': (126.16, 130.64), 'text': " But I mean once you get into it, it's not too bad. How many months before it feels good? That's my question. Oh"}
+{'timestamp': (131.68, 138.32), 'text': " 45 years. Yeah, I don't know about the feeling good part even when I was like in the midst of my working out probably an overall life"}
+{'timestamp': (138.48, 142.24), 'text': ' Feeling good a little better, but in the workouts it always sucked'}
+{'timestamp': (146.2, 148.4), 'text': " But see isn't that the lie that they tell people, and shape people, tell out shape people like, oh, I think it's an endorphin high."}
+{'timestamp': (148.4, 150.24), 'text': ' I working out makes me feel better.'}
+{'timestamp': (150.24, 152.68), 'text': ' Is that just actually a lie? Is that a complete bullshit?'}
+{'timestamp': (152.68, 154.04), 'text': " Is it like the runner's high?"}
+{'timestamp': (154.04, 155.44), 'text': " I don't think the runner's high exists"}
+{'timestamp': (155.44, 156.52), 'text': " because I've never had it."}
+{'timestamp': (156.52, 158.68), 'text': ' I think those runners just smoked a lot of weed'}
+{'timestamp': (158.68, 165.76), 'text': ' before they went for a run. They They talk about reaching the runners high, but like I tried to run to get in shape a few times and like even when I was running'}
+{'timestamp': (165.76, 166.8), 'text': " I don't know a couple miles"}
+{'timestamp': (166.8, 168.8), 'text': ' It was like I never have to put where I felt like I was at the runners high'}
+{'timestamp': (168.8, 172.8), 'text': ' It was more the runners like oh dear god five more steps. Okay. Maybe I can go like five more steps'}
+{'timestamp': (172.8, 176.88), 'text': ' Oh, I love a guy five more steps. Oh the top of the hill top of the hill. I guess the top of the hill will stop'}
+{'timestamp': (176.88, 185.64), 'text': " Oh Then I get there. It's like Oh, Rodgers, I wear a workout. Yeah, I've ran up to, I think, the most I've ran"}
+{'timestamp': (185.64, 188.52), 'text': ' is probably a 5K at once.'}
+{'timestamp': (188.52, 190.96), 'text': ' And at no point in there was like thank goodness.'}
+{'timestamp': (190.96, 193.36), 'text': ' All I could think of was like, man, my feet hurt.'}
+{'timestamp': (193.36, 195.16), 'text': ' Oh boy, I should get better shoes.'}
+{'timestamp': (195.16, 196.72), 'text': ' It was a calf burn.'}
+{'timestamp': (196.72, 201.52), 'text': ' Oh, I think what I run is, ow, ow, ow, ow, ow, ow.'}
+{'timestamp': (201.52, 207.68), 'text': ' All right, well that makes you feel both better, but also worse because I just sucks forever, I guess.'}
+{'timestamp': (207.68, 209.16), 'text': ' But it does feel good.'}
+{'timestamp': (209.16, 210.52), 'text': " The feeling when you're not working out,"}
+{'timestamp': (210.52, 211.44), 'text': ' though, is pretty good.'}
+{'timestamp': (211.44, 215.56), 'text': " I have less of an appetite whenever I'm exercising a lot,"}
+{'timestamp': (215.56, 216.56), 'text': " and I feel like I'm eating better"}
+{'timestamp': (216.56, 217.64), 'text': " because I'm more mindful because I'm like,"}
+{'timestamp': (217.64, 218.8), 'text': " I don't have to work that off later."}
+{'timestamp': (218.8, 226.0), 'text': " So I feel like they work pretty well in conjunction with one another when I'm exercising, I do eat better. You have less of an appetite? Anytime I work out, I'm way hungry."}
+{'timestamp': (226.0, 228.72), 'text': " No, because it's not that I feel less hunger,"}
+{'timestamp': (228.72, 230.72), 'text': " but mentally I've got a block where it's like,"}
+{'timestamp': (230.72, 233.04), 'text': " I don't want to just put on all the calories I just took off,"}
+{'timestamp': (233.04, 234.08), 'text': ' so I want to eat a little bit less.'}
+{'timestamp': (234.08, 236.16), 'text': " I'm not gonna eat two cheeseburgers, I'll get it."}
+{'timestamp': (236.16, 247.56), 'text': " It gives you a broader motivation. Yeah, oh, I'm doing it. And that inspires me to like make other better choices. Yeah, like I'll look away from the pile of chocolates"}
+{'timestamp': (247.56, 248.64), 'text': " and more toward like, I don't know,"}
+{'timestamp': (248.64, 249.88), 'text': ' a vegetable or fruit or something.'}
+{'timestamp': (249.88, 252.2), 'text': " I'm like, oh, I'm gonna snack, I'll have this instead."}
+{'timestamp': (252.2, 253.24), 'text': " Like, it's just how I feel"}
+{'timestamp': (253.24, 254.08), 'text': " when I'm exercising,"}
+{'timestamp': (254.08, 255.96), 'text': " because I don't wanna cancel out the work I'm putting in"}
+{'timestamp': (255.96, 256.96), 'text': ' by eating unhealthy.'}
+{'timestamp': (256.96, 265.0), 'text': " Anyway, my shoulders too. Molly's been good. She's been going to the gym, working out from home."}
+{'timestamp': (265.0, 268.36), 'text': " We have an elliptical and a treadmill and some weights and stuff that she's been working"}
+{'timestamp': (268.36, 269.36), 'text': ' out.'}
+{'timestamp': (269.36, 270.36), 'text': ' Nice.'}
+{'timestamp': (270.36, 271.36), 'text': ' I need to get back to it.'}
+{'timestamp': (271.36, 274.48), 'text': ' But this has really been the first week of somewhat normalcy.'}
+{'timestamp': (274.48, 287.2), 'text': " It's kind of like get the house back together, figure out there something growing in the toilet already or was it there when you got there? It was already there. It's like a banana tree. I go and I put"}
+{'timestamp': (287.8, 293.72), 'text': " Skip bananas taking us there's the item. I'm a banana tree. I was over that. Wait what I must not see in that bathroom"}
+{'timestamp': (293.72, 295.72), 'text': ' No, no, no, definitely not exaggerating'}
+{'timestamp': (297.0, 305.28), 'text': " I am exaggerating. What are you exaggerating from that? It's a banana tree. How exaggerate is this? It's an apple tree Mark. Obviously It's a banana tree. How exaggerated is this? It's an apple tree, Mark. Obviously it's Jesus man."}
+{'timestamp': (305.28, 306.12), 'text': ' I knew it.'}
+{'timestamp': (306.12, 307.48), 'text': " It's a grapevine."}
+{'timestamp': (307.48, 308.48), 'text': " Okay, it's not even a tree."}
+{'timestamp': (308.48, 309.56), 'text': " It's a vine."}
+{'timestamp': (309.56, 311.64), 'text': " It's hardly a bush if anything."}
+{'timestamp': (311.64, 312.56), 'text': ' What are you pondering, Mark?'}
+{'timestamp': (312.56, 314.88), 'text': ' You got quite the ponderous look about your visage.'}
+{'timestamp': (314.88, 315.88), 'text': ' What are you pondering, man?'}
+{'timestamp': (315.88, 316.88), 'text': " It wouldn't be the last episode."}
+{'timestamp': (316.88, 330.54), 'text': " What did it? I Definitely nothing else. That's too Mark. Are you guys gonna explain what these numbers mean? It's fine. It's you're sig- you're assuming it's about you, Wade, but that you were literally there for the whole"}
+{'timestamp': (330.54, 338.18), 'text': " Previous episode. There's no other communication that took place. I have a me-centric position in the universe where like I want everyone to be happy"}
+{'timestamp': (338.18, 345.0), 'text': " But secretly I inside I believe that like I'm the center of the universe And you this is a a Truman show and you guys are all actors in my movie."}
+{'timestamp': (345.0, 346.4), 'text': " You're the main character."}
+{'timestamp': (346.4, 348.24), 'text': " Yeah, I've got main character center to some extent."}
+{'timestamp': (348.24, 351.88), 'text': " So everything is about me even when it's not in my own head."}
+{'timestamp': (351.88, 353.48), 'text': " Well, sometimes it's not, Wade."}
+{'timestamp': (353.48, 355.36), 'text': " You're just, you'll adjust."}
+{'timestamp': (355.36, 356.2), 'text': " It'll be fine."}
+{'timestamp': (356.2, 357.12), 'text': " It'll feel normal after a while."}
+{'timestamp': (357.12, 366.2), 'text': " Mark, did you have anything else interesting? Oh, it's been a minute."}
+{'timestamp': (366.2, 369.8), 'text': ' Well, okay, so I did get something that is lens related'}
+{'timestamp': (369.8, 371.8), 'text': " but it's more an art piece."}
+{'timestamp': (371.8, 373.92), 'text': ' All right, so I think you guys will actually find this cool.'}
+{'timestamp': (373.92, 378.4), 'text': " I saw this and I've never seen anything like it before."}
+{'timestamp': (378.4, 380.6), 'text': ' Mark, how do you feel about all those moon pictures'}
+{'timestamp': (380.6, 384.8), 'text': ' you hate so much knowing now that they were taken with lenses?'}
+{'timestamp': (384.8, 386.48), 'text': ' People are starting to understand. People are starting to understand.'}
+{'timestamp': (386.48, 388.2), 'text': ' People are starting to understand.'}
+{'timestamp': (388.2, 389.84), 'text': " They're starting to see like, oh wait, this guy,"}
+{'timestamp': (389.84, 391.48), 'text': ' he only posts I see.'}
+{'timestamp': (391.48, 393.04), 'text': ' Ah, I understand now.'}
+{'timestamp': (393.04, 393.88), 'text': ' I get it.'}
+{'timestamp': (393.88, 396.16), 'text': ' The weirdest grudge of all the time.'}
+{'timestamp': (396.16, 397.56), 'text': ' Look, look, look, look.'}
+{'timestamp': (397.56, 399.36), 'text': " Wasn't that the episode Weird Grudges?"}
+{'timestamp': (399.36, 406.68), 'text': " It's a cutaway of a lens that they cut away the, like three quarters of the metal body"}
+{'timestamp': (406.68, 409.44), 'text': ' and they kept the lenses intact to circular pieces.'}
+{'timestamp': (409.44, 412.8), 'text': ' And I saw it and I was like, that is so cool.'}
+{'timestamp': (412.8, 414.2), 'text': ' That is so incredibly cool.'}
+{'timestamp': (414.2, 417.88), 'text': " I don't really know what lens it is that it's based off of."}
+{'timestamp': (417.88, 419.24), 'text': " But for me, it's like it's both of..."}
+{'timestamp': (419.24, 420.28), 'text': ' Oh, there it is.'}
+{'timestamp': (420.28, 421.4), 'text': ' Oh, okay, cool.'}
+{'timestamp': (421.4, 428.92), 'text': ' Like, for those of you who are listening and not watching, it is a, looks like a zoom lens of'}
+{'timestamp': (428.92, 433.98), 'text': ' some kind that is mounted vertically from the smaller side where that attaches the camera.'}
+{'timestamp': (433.98, 438.12), 'text': ' The open side to the light is up the top and the circular lens elements, the glass pieces'}
+{'timestamp': (438.12, 442.66), 'text': ' inside are showcased in a way where you can see all the layers and the different pieces'}
+{'timestamp': (442.66, 445.72), 'text': " and it's on a wooden block so you can present it on your"}
+{'timestamp': (445.88, 451.72), 'text': " Your shelf. I don't buy art. I don't buy anything to like show. I don't buy it either"}
+{'timestamp': (454.88, 460.18), 'text': " You're not gonna pull one over on me art. That was better than my if I free joke earlier. It was pretty good"}
+{'timestamp': (460.18, 463.52), 'text': ' I got to say this is what I imagine a binocular nope a'}
+{'timestamp': (463.84, 465.96), 'text': ' Monoc a horoscope telescope.'}
+{'timestamp': (465.96, 467.24), 'text': ' Hey, talking about telescope?'}
+{'timestamp': (467.24, 469.04), 'text': ' Yeah, cause what do you think is the difference'}
+{'timestamp': (469.04, 470.84), 'text': ' between a telescope and a lens?'}
+{'timestamp': (470.84, 473.4), 'text': ' One contains lenses and one does a lens?'}
+{'timestamp': (473.4, 475.32), 'text': ' The kind of dick that operates it.'}
+{'timestamp': (475.32, 476.48), 'text': ' Yeah, right.'}
+{'timestamp': (476.48, 478.6), 'text': " But it's cool, right?"}
+{'timestamp': (478.6, 480.24), 'text': " No, that is, I'm with you."}
+{'timestamp': (480.24, 482.64), 'text': " I don't really buy like decorative pieces."}
+{'timestamp': (482.64, 486.8), 'text': " There's a thing that's in this same vein that's a car thing that I like,"}
+{'timestamp': (486.8, 488.84), 'text': " I might get at some point because it's cool."}
+{'timestamp': (488.84, 490.12), 'text': ' But like this is exactly,'}
+{'timestamp': (490.12, 492.04), 'text': ' if I was into lenses, I get it'}
+{'timestamp': (492.04, 493.76), 'text': ' because that is super cool.'}
+{'timestamp': (493.76, 495.24), 'text': " If I saw that in someone's house,"}
+{'timestamp': (495.24, 496.52), 'text': ' I would go and like look at it'}
+{'timestamp': (496.52, 498.32), 'text': ' because you could kind of see in this picture,'}
+{'timestamp': (498.32, 506.4), 'text': ' you could kind of see the light is reflecting off the different surfaces of the different glass pieces. And you can see the reflections are not the same, but I would like, I would look through it'}
+{'timestamp': (506.4, 507.6), 'text': ' and be like, what does this lens do?'}
+{'timestamp': (507.6, 509.2), 'text': ' What does this lens do?'}
+{'timestamp': (509.2, 510.04), 'text': " It's fascinating."}
+{'timestamp': (510.04, 510.96), 'text': ' Exactly, right?'}
+{'timestamp': (510.96, 514.16), 'text': " It's like an anatomical model that you'd have"}
+{'timestamp': (514.16, 516.8), 'text': ' with some of the pieces of the body, like peel the way.'}
+{'timestamp': (516.8, 520.24), 'text': " It's like that exhibit where there's no skin,"}
+{'timestamp': (520.24, 521.6), 'text': ' the bodies exhibit.'}
+{'timestamp': (521.6, 525.8), 'text': " Yeah, exactly. Yeah, exactly. And it's similar if people have seen"}
+{'timestamp': (525.8, 528.92), 'text': ' when people take old iPhones and they disassemble all the parts'}
+{'timestamp': (528.92, 530.52), 'text': ' and they put it in like a plaque,'}
+{'timestamp': (530.52, 531.64), 'text': " it's just interesting to work out"}
+{'timestamp': (531.64, 533.12), 'text': ' because you get to see how it worked.'}
+{'timestamp': (533.12, 535.36), 'text': " But this is something I've never seen anything like this."}
+{'timestamp': (535.36, 538.16), 'text': " It's actually, I really appreciate the idea here."}
+{'timestamp': (538.16, 539.92), 'text': ' Well, and if you look at the layers of metal'}
+{'timestamp': (539.92, 549.68), 'text': " and the casing that is left, I can't imagine exactly how they made the cut so clean because it's very intricate and delicate in pieces in there that are all cut really nicely."}
+{'timestamp': (549.68, 554.32), 'text': " Yeah, that's like, and all this coming from where was, I don't know how vintage this lens is"}
+{'timestamp': (554.32, 558.16), 'text': " probably more modern than the ones that I'm normally looking at. That's what's fascinating"}
+{'timestamp': (558.16, 563.12), 'text': " about these old lenses is because usually they're very affordable because they're older and people"}
+{'timestamp': (563.12, 568.16), 'text': " want the newer ones. So I don't mind this probably wasn't an incredibly valuable one."}
+{'timestamp': (568.16, 571.44), 'text': ' But still, you see the complexity in it. You see the engineering behind it.'}
+{'timestamp': (571.44, 576.16), 'text': " And like that's what I appreciate. The actual mechanical features of it and the optical,"}
+{'timestamp': (576.16, 577.68), 'text': " like playing with light, it's very cool."}
+{'timestamp': (577.68, 583.68), 'text': " Well, and I'm sure the movement is not preserved. I would be super curious how each of those moves"}
+{'timestamp': (583.68, 585.84), 'text': ' when you do pull focus on it.'}
+{'timestamp': (585.84, 590.32), 'text': " Yeah. Yeah. Cause I'm sure that I don't expect they all move the same rate, right?"}
+{'timestamp': (590.32, 594.4), 'text': " Cause you don't want them all. So like, it'd be very interesting. Yeah. No, I get that. That's"}
+{'timestamp': (594.4, 598.96), 'text': " cool. Relatable lens stuff, Mark. I love you. Thank you. It's more art than anything,"}
+{'timestamp': (598.96, 606.8), 'text': " but I know you don't buy that. I don't buy yours. I think we would start today off by talking about giving."}
+{'timestamp': (606.8, 609.72), 'text': ' Do you guys find joy in the gift of giving?'}
+{'timestamp': (609.72, 610.72), 'text': ' Like birthdays?'}
+{'timestamp': (610.72, 611.72), 'text': ' Are you saying specific?'}
+{'timestamp': (611.72, 615.84), 'text': ' No, I mean like giving something to like another adult sometimes can be fun.'}
+{'timestamp': (615.84, 617.96), 'text': " Like you know if it's something they want or something you know they'll be excited"}
+{'timestamp': (617.96, 618.96), 'text': ' to get.'}
+{'timestamp': (618.96, 622.84), 'text': " But like it's almost always fulfilling to give like a kid a toy or give a kid something"}
+{'timestamp': (622.84, 627.54), 'text': " because like just it always blows their mind to get something new and they always seem so excited whenever something you know they're gonna be into."}
+{'timestamp': (627.54, 632.34), 'text': " I feel like sometimes the adults, if it's not super excited, is one of those obligatory."}
+{'timestamp': (632.34, 647.6), 'text': " Here's a gift card, here's this. I'm like, oh thank you, you're genuinely appreciative, but it's not the same feeling as seeing a kid open up that toy. They've been wanting and they're so wide eyed and like, oh my god, when they run around happily, it's very different. Times of change, kids don't appreciate shit nowadays."}
+{'timestamp': (647.6, 649.36), 'text': " Mark's got opinions."}
+{'timestamp': (649.36, 651.84), 'text': " I guess I'm trying to think, I don't,"}
+{'timestamp': (651.84, 656.4), 'text': " I don't particularly enjoy giving like a thing as a gift"}
+{'timestamp': (656.4, 658.32), 'text': " unless it's exactly like the thing"}
+{'timestamp': (658.32, 660.0), 'text': " that's gonna drive someone really crazy,"}
+{'timestamp': (660.0, 662.16), 'text': " that they exactly a thing they've been really wanting."}
+{'timestamp': (662.16, 667.56), 'text': " But I really like giving more like like like, like, I don't know, like doing stuff together,"}
+{'timestamp': (667.56, 671.12), 'text': ' like a trip together or like doing something'}
+{'timestamp': (671.12, 673.64), 'text': " where it's like a, we're forming a memory."}
+{'timestamp': (673.64, 674.96), 'text': " I feel like I've talked about that before"}
+{'timestamp': (674.96, 677.08), 'text': ' in another context, but like, I like that'}
+{'timestamp': (677.08, 678.48), 'text': " because it's a lasting thing."}
+{'timestamp': (678.48, 680.92), 'text': " Some of my favorite like gifts I've ever given"}
+{'timestamp': (680.92, 682.32), 'text': ' were really more just like,'}
+{'timestamp': (682.32, 690.24), 'text': " oh, we're all going to this It's a trip together or we're all going to this fancy restaurant or whatever and then like that because I remember that very fondly"}
+{'timestamp': (690.24, 697.3), 'text': " And like everyone shares that experience, but yeah, like I I do feel that like it's very exciting when you because I suck at giving"}
+{'timestamp': (697.3, 707.36), 'text': " Presence when you get something that's actually a good present whether it's a thing or whatever like it does feel good because you're like I, I did it. It's not a gift card and they weren't just like,"}
+{'timestamp': (707.36, 711.32), 'text': ' oh, an avocado, thanks.'}
+{'timestamp': (711.32, 712.48), 'text': " I don't like moving."}
+{'timestamp': (712.48, 715.32), 'text': " I mentioned my muscles hurt, I'm cool with sitting still."}
+{'timestamp': (715.32, 717.16), 'text': ' Is that it? Is that the episode? Is it over?'}
+{'timestamp': (717.16, 719.76), 'text': ' But it is for me because the real thing this episode'}
+{'timestamp': (719.76, 721.48), 'text': ' is I wanna give a gift to you guys.'}
+{'timestamp': (721.48, 728.72), 'text': ' And that is the gift of sharing a hosting because this episode has never felt like mine and therefore I want to pass on that feeling to you guys. Bob,'}
+{'timestamp': (728.72, 734.56), 'text': ' I felt like, you know, you conceded last episode and so I want to pass along my gift to you.'}
+{'timestamp': (734.56, 739.36), 'text': ' You are now the host of this episode and if you want to pass it on to Mark after a bit, you can.'}
+{'timestamp': (739.36, 742.32), 'text': ' But ultimately, you are now the host.'}
+{'timestamp': (742.32, 747.68), 'text': ' It feels somehow a little bit like regifting something that I literally just gave to you,'}
+{'timestamp': (747.68, 750.38), 'text': " and then you didn't even re-wrap it, we're just standing next to each other."}
+{'timestamp': (750.38, 753.64), 'text': " You handed it back to me and we're like, and this is for you!"}
+{'timestamp': (753.64, 758.04), 'text': " It's more like secret sano where like I just stole the feet back from you for a bit."}
+{'timestamp': (758.04, 760.8), 'text': " Well, as long as I don't have to give a loser speech, does this technically count as a"}
+{'timestamp': (760.8, 765.04), 'text': " win for me. Is that what's happening? This is gonna really mess up the spreadsheet"}
+{'timestamp': (765.04, 766.56), 'text': ' if that counts as a real win.'}
+{'timestamp': (766.56, 768.44), 'text': " You know, that's not my problem."}
+{'timestamp': (768.44, 771.64), 'text': ' Whoever keeps that graph, we are so sorry'}
+{'timestamp': (771.64, 773.24), 'text': " about what's happening right now."}
+{'timestamp': (773.24, 774.96), 'text': ' I have no idea what this even is.'}
+{'timestamp': (774.96, 776.04), 'text': " You're the host now."}
+{'timestamp': (776.04, 777.76), 'text': ' No, we need to sort that as the host,'}
+{'timestamp': (777.76, 789.04), 'text': " I declare that we need to sort this half a win. Is this a whole win for me, but also a whole win for Wade? Do I steal Wade's win? He does, he concedes his win back to me, and so he loses a win and I gain the win?"}
+{'timestamp': (789.04, 792.88), 'text': ' My thought process was last episode ended and I was given a win.'}
+{'timestamp': (792.88, 797.6), 'text': " This episode I'm now giving you a win, and you can choose to give Mark a win."}
+{'timestamp': (797.6, 800.48), 'text': " I didn't realize we could just generate wins out of our..."}
+{'timestamp': (800.48, 806.5), 'text': ' What are we, the government? We just print money? Yeah, we have been going on long enough that in the bylaws we can now print wins.'}
+{'timestamp': (806.5, 808.96), 'text': ' This is gonna cause a major winflation, guys.'}
+{'timestamp': (808.96, 809.96), 'text': ' Just...'}
+{'timestamp': (809.96, 813.84), 'text': ' Yeah, I see the sadness, I see the sadness in your eyebrows.'}
+{'timestamp': (813.84, 816.0), 'text': " You laughed at that joke, that's right,"}
+{'timestamp': (816.0, 817.84), 'text': ' you have to live with that forever now.'}
+{'timestamp': (817.84, 825.46), 'text': " That might be your favorite joke of yours in a long time. I, he's got some bangers today. I feel like a good thing he got the win early"}
+{'timestamp': (825.46, 828.12), 'text': ' because I was going to be washed on this one.'}
+{'timestamp': (828.12, 830.56), 'text': ' This episode is brought to you by Mint Mobile.'}
+{'timestamp': (830.56, 832.44), 'text': " One thing I'm determined to do this year"}
+{'timestamp': (832.44, 836.24), 'text': ' is cut back spending, moving, buying furniture,'}
+{'timestamp': (836.24, 840.0), 'text': ' just bills, everything this year was so expensive.'}
+{'timestamp': (840.0, 841.92), 'text': ' So when the new year rolls around,'}
+{'timestamp': (841.92, 846.8), 'text': ' cut, cut, cut, cut, cut, cuck cuck Time to save 2024 is year of the beaver,'}
+{'timestamp': (846.8, 850.48), 'text': " which means storing things like wood, but for me it's cash."}
+{'timestamp': (850.48, 852.52), 'text': ' Well you know way, the great way to save money'}
+{'timestamp': (852.52, 855.4), 'text': ' is to switch to mint mobile for your cellphone service, huh?'}
+{'timestamp': (855.4, 858.72), 'text': ' For a limited time, the fireless plans are only $15 a month.'}
+{'timestamp': (858.72, 861.48), 'text': ' It is very, very affordable switching to mint mobile.'}
+{'timestamp': (861.48, 865.84), 'text': ' Well, when you save all that money because you switched to Mint Mobile, what are you gonna spend it on?'}
+{'timestamp': (865.84, 866.84), 'text': ' Get a move again?'}
+{'timestamp': (866.84, 869.28), 'text': ' Get your overpriced plan and switch to Mint Mobile.'}
+{'timestamp': (869.28, 871.96), 'text': ' Visit mintmobile.com slash distractable'}
+{'timestamp': (871.96, 873.24), 'text': ' to get this new customer offer'}
+{'timestamp': (873.24, 875.16), 'text': ' in your new three month unlimited wireless plan'}
+{'timestamp': (875.16, 876.48), 'text': ' for just 15 bucks a month.'}
+{'timestamp': (876.48, 878.76), 'text': " That's mintmobile.com slash distractable."}
+{'timestamp': (878.76, 885.12), 'text': ' Additional taxis fees and restrictions apply see Mint mobile for details.'}
+{'timestamp': (889.72, 897.36), 'text': " So you you won my portion of this episode that counts as a full win. That's up to you my host It's not an infinite win because you can't exactly make yourself the winner as we declared in the bylaws after the tyranny of one of the members"}
+{'timestamp': (897.36, 902.6), 'text': " We can't remember which one. That's why we refer to Bob as my host now. He's the tyrant leader. My host"}
+{'timestamp': (903.28, 907.84), 'text': " Now he's the irate leader of my host. Now I declare as host that Wade keeps his previous win."}
+{'timestamp': (907.84, 914.48), 'text': ' This counts as a full win and it is now by law of it exists.'}
+{'timestamp': (914.48, 917.92), 'text': ' You can have mid-episode wins that do not end the episode.'}
+{'timestamp': (917.92, 920.96), 'text': ' Technically we never said declaring a winner has to end the episode.'}
+{'timestamp': (920.96, 923.2), 'text': ' We just always operated under that assumption.'}
+{'timestamp': (923.2, 927.84), 'text': ' I, you know what? I have a burning question. As host, who knew this was happening, I have'}
+{'timestamp': (927.84, 934.24), 'text': ' a burning question that I want you to help me answer. How many holes does a straw have?'}
+{'timestamp': (934.24, 941.92), 'text': ' One. Why? Well, okay, is it a crazy straw with multiple spigots or are we talking to standard straw?'}
+{'timestamp': (941.92, 945.16), 'text': " Let's start with a standard non-bendy straw,"}
+{'timestamp': (945.16, 948.4), 'text': ' perfectly straight straw you get from like any fast food restaurant.'}
+{'timestamp': (948.4, 951.84), 'text': ' We can progress to types of straws as the debate thickens.'}
+{'timestamp': (951.84, 952.96), 'text': ' Plastic?'}
+{'timestamp': (952.96, 956.68), 'text': ' Plastic, tunnel murdering straw that you throw it on the...'}
+{'timestamp': (956.68, 961.08), 'text': ' out in the window of your car into the gutter to live forever in the environment.'}
+{'timestamp': (961.08, 966.44), 'text': " Yeah, no, I'll make Donald's red and yellow striped plastic straw."}
+{'timestamp': (966.44, 966.94), 'text': ' Okay.'}
+{'timestamp': (966.94, 968.94), 'text': ' How many holes do you say, you say one hole?'}
+{'timestamp': (968.94, 971.8), 'text': " No, if it's a McDonald's one, it has two or more"}
+{'timestamp': (971.8, 985.44), 'text': ' because they always are cracked. Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha with care, star foam packed. It has the intended number of holes in it,'}
+{'timestamp': (985.44, 986.76), 'text': ' but how many is that?'}
+{'timestamp': (986.76, 988.48), 'text': " It's one, it's one."}
+{'timestamp': (988.48, 989.56), 'text': " Wait, what's a you?"}
+{'timestamp': (989.56, 992.2), 'text': " I'm gonna annoy you by saying it depends."}
+{'timestamp': (992.2, 995.32), 'text': ' If you go in one way into the solid object'}
+{'timestamp': (995.32, 998.0), 'text': ' and go from top to bottom, it has one hole.'}
+{'timestamp': (998.0, 1000.72), 'text': ' However, in theory, you can go in either side,'}
+{'timestamp': (1000.72, 1001.76), 'text': ' so it could be two holes,'}
+{'timestamp': (1001.76, 1010.12), 'text': ' but if it was also made that way and they met in the middle, it would be two holes that therefore met in the middle to create the illusion of one hole but it still be two holes.'}
+{'timestamp': (1010.12, 1013.72), 'text': " Okay, alright if we're going that route, it's a bit of a define hole."}
+{'timestamp': (1013.72, 1017.28), 'text': ' That is the question and I like that you asked that, points to win.'}
+{'timestamp': (1017.28, 1022.12), 'text': ' There are certain things that you can designate at having two entrances.'}
+{'timestamp': (1022.12, 1026.48), 'text': " I've got like five. You do? You do have like five, that's accurate."}
+{'timestamp': (1026.48, 1028.84), 'text': ' But when you are using a straw,'}
+{'timestamp': (1028.84, 1032.96), 'text': ' it has a fully intended purpose of having an intake'}
+{'timestamp': (1032.96, 1034.92), 'text': ' and an outtake.'}
+{'timestamp': (1034.92, 1035.8), 'text': ' X-take.'}
+{'timestamp': (1035.8, 1038.16), 'text': ' So you got your intake and your X-take.'}
+{'timestamp': (1038.16, 1041.64), 'text': " It's in taking through one entrance"}
+{'timestamp': (1041.64, 1043.96), 'text': ' and then X-taking into your mouth.'}
+{'timestamp': (1043.96, 1047.7), 'text': " And therefore, I don't think you can say it as two holes"}
+{'timestamp': (1047.7, 1050.6), 'text': " because even if you're talking about a hole in the ground,"}
+{'timestamp': (1050.6, 1053.68), 'text': ' then even that definition is arbitrary'}
+{'timestamp': (1053.68, 1055.68), 'text': " and it doesn't have another entrance,"}
+{'timestamp': (1055.68, 1060.68), 'text': ' it at the very least has the other exit blocked by dirt.'}
+{'timestamp': (1061.76, 1063.84), 'text': ' What you have when you start to dig a hole in the round'}
+{'timestamp': (1063.84, 1065.36), 'text': ' is a partial hole. A something you start to dig a hole in the round is a partial hole.'}
+{'timestamp': (1065.36, 1072.16), 'text': ' A something for something to be a hole it implies that it goes all the way through the thing that it is a hole in.'}
+{'timestamp': (1072.16, 1078.48), 'text': ' Not- well, yes, but the other end can be blocked. So when you dig in the ground, the other end is blocked by dirt.'}
+{'timestamp': (1078.48, 1084.16), 'text': " But there's a theoretical hole that continues through all the way to the other side of the earth."}
+{'timestamp': (1084.16, 1085.16), 'text': " Or wherever. Okay, so let's say someone starts the other side of the earth. Or wherever."}
+{'timestamp': (1085.16, 1088.32), 'text': " Okay, so let's say someone starts digging a hole through the earth this way."}
+{'timestamp': (1088.32, 1090.56), 'text': ' Someone starts digging a hole through the earth this way.'}
+{'timestamp': (1090.56, 1092.84), 'text': " They stop here, they're not touching, they're not connected."}
+{'timestamp': (1092.84, 1094.44), 'text': ' Is it two holes?'}
+{'timestamp': (1094.44, 1096.04), 'text': ' Is this one should go through this way?'}
+{'timestamp': (1096.04, 1097.36), 'text': ' This one should go through this way?'}
+{'timestamp': (1097.36, 1105.92), 'text': " It's like Schrodinger's hole. It's not known whether or not it's going to be a singular hole until they intersect. What if they do intersect?"}
+{'timestamp': (1105.92, 1110.16), 'text': " And then you've got this pattern. Is this one hole two hole four holes infinite holes?"}
+{'timestamp': (1110.16, 1116.68), 'text': " I'd say when you have like two things that are continuing onward, they didn't kill each other. Did the diggers kill each other?"}
+{'timestamp': (1116.68, 1126.92), 'text': ' No, they got there a different time. So one was dug and then one was dug and they just happened to intersect, right? I think that would qualify as a single hole'}
+{'timestamp': (1126.92, 1130.08), 'text': " because it doesn't matter how many entrances or exits"}
+{'timestamp': (1130.08, 1131.52), 'text': " it's all the same hole."}
+{'timestamp': (1131.52, 1132.36), 'text': ' Interesting.'}
+{'timestamp': (1132.36, 1133.72), 'text': " No, I don't know about that one."}
+{'timestamp': (1133.72, 1134.56), 'text': ' I will draw.'}
+{'timestamp': (1134.56, 1136.88), 'text': ' Points to mark for being bold.'}
+{'timestamp': (1136.88, 1138.04), 'text': ' Points to mark for.'}
+{'timestamp': (1138.04, 1140.48), 'text': ' All right, Mark, you brought this up with the crazy straw,'}
+{'timestamp': (1140.48, 1141.52), 'text': ' but I have a different way.'}
+{'timestamp': (1141.52, 1150.68), 'text': " I like to illustrate the complexity of this point. So let's say for arguments sake, there is one hole in a normal straight straw. It goes"}
+{'timestamp': (1150.68, 1156.44), 'text': " at the top and the bottom, they're connected by one hole. A human digestive tract has one"}
+{'timestamp': (1156.44, 1161.48), 'text': ' opening that things traditionally go into and another opening that things traditionally'}
+{'timestamp': (1161.48, 1166.52), 'text': ' go out of, and they are connected, if you ignore the complexities of the digestive tract'}
+{'timestamp': (1166.52, 1171.72), 'text': ' Essentially they are connected by one funnel that winds its way through the torso of the human body'}
+{'timestamp': (1171.72, 1179.26), 'text': ' So does a human a digestive tract have one hole or do you have a mouth hole and a but hole that are two holes?'}
+{'timestamp': (1180.52, 1184.5), 'text': ' My argument is falling apart. No my argument is falling apart before me'}
+{'timestamp': (1184.5, 1187.5), 'text': ' I would like to say that weight is clearly'}
+{'timestamp': (1187.5, 1189.76), 'text': ' surpassed me in every single way.'}
+{'timestamp': (1189.76, 1194.28), 'text': ' I abstain and therefore yield the remainder of my time'}
+{'timestamp': (1194.28, 1196.92), 'text': ' to the greater man and the bigger victor,'}
+{'timestamp': (1196.92, 1197.76), 'text': ' weight barred.'}
+{'timestamp': (1197.76, 1198.6), 'text': ' Great, thank you.'}
+{'timestamp': (1198.6, 1200.92), 'text': " I'm gonna use my time to agree with Mark"}
+{'timestamp': (1200.92, 1203.24), 'text': ' that oral and anal, if you look at him side by side,'}
+{'timestamp': (1203.24, 1204.6), 'text': " they're the same picture."}
+{'timestamp': (1204.6, 1206.12), 'text': " It's the same thing."}
+{'timestamp': (1206.12, 1211.0), 'text': " It's a positive story."}
+{'timestamp': (1211.0, 1213.28), 'text': ' You can take your ibuprofen either way.'}
+{'timestamp': (1213.28, 1217.0), 'text': " You can eat those or put them up the other end and it's the same thing."}
+{'timestamp': (1217.0, 1218.0), 'text': " That's your argument."}
+{'timestamp': (1218.0, 1219.0), 'text': ' I watch South Park.'}
+{'timestamp': (1219.0, 1221.96), 'text': " If you eat through your butthole, you'll just poop out your mouth."}
+{'timestamp': (1221.96, 1223.04), 'text': ' It works that way.'}
+{'timestamp': (1223.04, 1228.72), 'text': " That's just science science therefore they are the same hole in mark is right he tried to yield but I I can't accept"}
+{'timestamp': (1228.72, 1235.68), 'text': ' because I agree with him wow points to mark for being so utterly correct thank you it was my strategy'}
+{'timestamp': (1235.68, 1241.44), 'text': " all along to use Wade's paranoia against him I double down on my argument double points to mark"}
+{'timestamp': (1241.44, 1245.4), 'text': " for doubling down I'm gonna triple down on mark point there triple down triple points to mark for doubling down. I'm gonna triple down on Mark's point there, triple down."}
+{'timestamp': (1245.4, 1248.0), 'text': ' Triple points to mark for Duet triple down.'}
+{'timestamp': (1248.0, 1248.7), 'text': ' Thank you.'}
+{'timestamp': (1248.7, 1252.2), 'text': " There's a distinction between two openings of a hole"}
+{'timestamp': (1252.2, 1254.2), 'text': ' and how much distance is between them.'}
+{'timestamp': (1254.2, 1257.2), 'text': " I don't know what the limit is, but I think there is a limit"}
+{'timestamp': (1257.2, 1259.2), 'text': ' where if there is an opening and an opening'}
+{'timestamp': (1259.2, 1262.4), 'text': " and they're connected by thousands of miles of tunnel"}
+{'timestamp': (1262.4, 1264.5), 'text': ' through the earth or whatever,'}
+{'timestamp': (1264.5, 1268.48), 'text': ' but they are connected and they technically form one tunnel.'}
+{'timestamp': (1268.48, 1269.92), 'text': " I would say that's different holes."}
+{'timestamp': (1269.92, 1274.48), 'text': " I think there's a limit somewhere in there where there's enough distance between one end"}
+{'timestamp': (1274.48, 1279.96), 'text': " and the other end that it's like those that's no longer a hole with two openings that's"}
+{'timestamp': (1279.96, 1286.36), 'text': ' two holes that happen to intersect within their complicated meanderings.'}
+{'timestamp': (1286.36, 1289.0), 'text': ' If you think about it, like if you were to take a piece'}
+{'timestamp': (1289.0, 1292.36), 'text': ' of paper and you were to fold it in half,'}
+{'timestamp': (1292.36, 1293.88), 'text': ' you had the old wormhole arguments,'}
+{'timestamp': (1293.88, 1295.08), 'text': ' throw in your paper.'}
+{'timestamp': (1295.08, 1297.24), 'text': " But imagine that it like didn't have,"}
+{'timestamp': (1297.24, 1299.28), 'text': " it wasn't this, it was just like,"}
+{'timestamp': (1299.28, 1302.84), 'text': ' it was one solid block that then you peeled in half,'}
+{'timestamp': (1302.84, 1303.76), 'text': ' you know what I mean?'}
+{'timestamp': (1303.76, 1310.0), 'text': ' So you got your hole in there and then you mechanically separate it later into two pieces,'}
+{'timestamp': (1310.64, 1316.88), 'text': ' but it was bridged by that tunnel inside of it. Like at what point does it become two holes'}
+{'timestamp': (1316.88, 1320.88), 'text': ' connected by like a curvy bridge in between them, you know what I mean?'}
+{'timestamp': (1320.88, 1327.84), 'text': " So I mean you're talking about fundamentally separating the hole which I think does make multiple holes. What's the difference between separating the hole and"}
+{'timestamp': (1327.84, 1332.48), 'text': " making the entrances farther apart? I think Bob's right in that there probably is a delineation"}
+{'timestamp': (1332.48, 1337.6), 'text': ' of like if this was connected in a solid piece that just like swelled like a balloon. At what point'}
+{'timestamp': (1337.6, 1345.2), 'text': " is it two holes to the balloon? You know? There's our knowledge, change how many holes there are? Like let's imagine we'd a cube, right? Just a cube, and there's a hole on it."}
+{'timestamp': (1345.2, 1346.2), 'text': " We all agree it's a hole."}
+{'timestamp': (1346.2, 1347.6), 'text': " But you can't see where it goes."}
+{'timestamp': (1347.6, 1348.92), 'text': " We don't know, we don't know where it goes."}
+{'timestamp': (1348.92, 1350.8), 'text': ' How deep it is in here, we just see a hole.'}
+{'timestamp': (1350.8, 1352.8), 'text': " Now imagine there's a second hole on the cube."}
+{'timestamp': (1352.8, 1365.6), 'text': " We don't know if it connects to the other one, if it doesn't If we find out that it's in fact one tunnel connecting the two holes,"}
+{'timestamp': (1365.6, 1367.96), 'text': " does it change our perspective that it's now one hole?"}
+{'timestamp': (1367.96, 1369.12), 'text': ' Or do we think of it as two now?'}
+{'timestamp': (1369.12, 1369.76), 'text': ' What if...'}
+{'timestamp': (1369.76, 1372.36), 'text': ' What if you could create an object that never had any holes?'}
+{'timestamp': (1372.36, 1374.28), 'text': ' But then suddenly has holes.'}
+{'timestamp': (1374.28, 1375.56), 'text': ' Okay, follow me on this one.'}
+{'timestamp': (1375.56, 1376.28), 'text': ' Follow me.'}
+{'timestamp': (1376.28, 1377.44), 'text': ' You have a piece of paper, right?'}
+{'timestamp': (1377.44, 1378.64), 'text': ' Wow, another one.'}
+{'timestamp': (1378.64, 1381.72), 'text': ' You roll...'}
+{'timestamp': (1381.72, 1386.0), 'text': ' ...it. a cajolee some sort of holy canolee I'}
+{'timestamp': (1386.44, 1389.18), 'text': ' Posit that straws are not'}
+{'timestamp': (1389.42, 1395.68), 'text': ' Strauss straws are canolees and all holies are actually'}
+{'timestamp': (1396.48, 1403.64), 'text': " No, there is no such thing as a holy because we all know they're canolees"}
+{'timestamp': (1403.64, 1407.76), 'text': " They are canolees if we're talking about the tubular holes"}
+{'timestamp': (1407.76, 1410.24), 'text': " it's the wrong argument in the first place"}
+{'timestamp': (1410.24, 1414.24), 'text': ' you know I can see my argument I think Mark Fishbok is the winner'}
+{'timestamp': (1414.24, 1418.68), 'text': ' I give him all points I can no longer stand on my own two legs'}
+{'timestamp': (1418.68, 1425.0), 'text': ' my feet are long gone so I will sit here and just take my L with a green of sip.'}
+{'timestamp': (1426.88, 1428.84), 'text': " Oh man, I don't even,"}
+{'timestamp': (1428.84, 1430.48), 'text': ' well I was gonna make a point about,'}
+{'timestamp': (1430.48, 1433.12), 'text': ' I thought it was interesting way that you were describing,'}
+{'timestamp': (1433.12, 1434.88), 'text': ' there was a point at what you changed'}
+{'timestamp': (1434.88, 1438.72), 'text': ' from describing a thing with two openings as a hole.'}
+{'timestamp': (1438.72, 1442.72), 'text': ' And somehow it became a tunnel'}
+{'timestamp': (1442.72, 1445.36), 'text': ' with two holes at each end of the tunnel.'}
+{'timestamp': (1445.36, 1449.98), 'text': ' And the way that that language changed implies to me, there must be some delineation between'}
+{'timestamp': (1449.98, 1451.4), 'text': ' a hole and a tunnel.'}
+{'timestamp': (1451.4, 1455.84), 'text': " But that's all just completely shot to hell and blown away."}
+{'timestamp': (1455.84, 1459.44), 'text': ' The philosophical 12 gauge that is the canole.'}
+{'timestamp': (1459.44, 1464.16), 'text': ' I just absolutely, like I was going to do a whole thing where I was going to take points'}
+{'timestamp': (1464.16, 1466.44), 'text': ' and give points about Mark wins'}
+{'timestamp': (1466.68, 1473.64), 'text': ' Okay, in my miniature episode in the middle of this full episode Mark just stole the win through'}
+{'timestamp': (1474.24, 1480.96), 'text': " Transcendence not even logic in facts well congratulations Mark and then you're the host now, so all right"}
+{'timestamp': (1480.96, 1488.36), 'text': " Okay, so I want to do an episode that is it's an offshoot of my last episode basically"}
+{'timestamp': (1488.36, 1495.5), 'text': " I'm gonna take the position of against and you guys are gonna take the position of four and if you can convince me"}
+{'timestamp': (1495.72, 1500.84), 'text': " That it's I'm wrong and I should be for this thing. That's what we do wait"}
+{'timestamp': (1500.84, 1503.56), 'text': " You're gonna start and I'm spinning the wheel a Hitler"}
+{'timestamp': (1504.6, 1506.84), 'text': " I'm for Hitler. is that the yeah?"}
+{'timestamp': (1507.92, 1512.48), 'text': " Where's the wheel can I see this evidence of the spin I play the intermission music"}
+{'timestamp': (1514.84, 1518.76), 'text': ' Hurry up times running out hurry the fuck up'}
+{'timestamp': (1519.32, 1526.0), 'text': " Marky move come on time's not waiting for you. It's time for you to"}
+{'timestamp': (1528.16, 1534.44), 'text': " Okay, I got it the host is what the most is mark up liar. Yes. Hello. I'm your host Mark"}
+{'timestamp': (1534.76, 1540.24), 'text': ' Thank you for that height man. Wade bonus points to you. Congratulations. That was very good of you'}
+{'timestamp': (1540.24, 1544.24), 'text': " What we're gonna do today is we're going to give you some options for superpowers"}
+{'timestamp': (1544.44, 1548.0), 'text': " I'm gonna give you some prompts some things that have been conjured up."}
+{'timestamp': (1548.0, 1552.6), 'text': " They're not incredible unless you think they are and you're gonna have to choose between"}
+{'timestamp': (1552.6, 1554.56), 'text': ' which ones you would like to do.'}
+{'timestamp': (1554.56, 1558.2), 'text': " And then we'll each take turns and you can debate the merits of each and then you can swap"}
+{'timestamp': (1558.2, 1559.44), 'text': ' powers if you want, I guess.'}
+{'timestamp': (1559.44, 1560.44), 'text': " I don't know."}
+{'timestamp': (1560.44, 1566.52), 'text': " We're gonna just see how it goes. So wait, you're gonna go first because I like you. All right, would you rather have the power of Chrono Whispers"}
+{'timestamp': (1566.52, 1569.8), 'text': ' where you can hear the conversations from the past'}
+{'timestamp': (1569.8, 1572.76), 'text': ' of any specific location where they occurred,'}
+{'timestamp': (1572.76, 1574.88), 'text': ' but every time you use this power,'}
+{'timestamp': (1574.88, 1577.72), 'text': ' you lose a random memory from your own past.'}
+{'timestamp': (1577.72, 1579.52), 'text': ' Ooh, interesting, okay.'}
+{'timestamp': (1579.52, 1582.12), 'text': " And I'm gonna tabulate who took what powers,"}
+{'timestamp': (1582.12, 1584.16), 'text': " how powerful you are, whoever's most powerful,"}
+{'timestamp': (1584.16, 1586.8), 'text': ' with the end wins And what was my alternative?'}
+{'timestamp': (1586.8, 1591.06), 'text': " That's just say yes or no. Oh, okay, would you rather have this power or not?"}
+{'timestamp': (1591.06, 1596.36), 'text': ' Yeah, I changed how the rules work in the middle of it because I can do that and the host shut up and go away'}
+{'timestamp': (1596.36, 1599.56), 'text': " You want me to skip your turn? No, no, it's fine. I think"}
+{'timestamp': (1600.04, 1607.52), 'text': " Between the choice of having that power versus not having it. I'll take it. Okay, I'll give you a choice. That makes sense. That's a good idea. Okay. All right."}
+{'timestamp': (1607.52, 1609.52), 'text': ' You can choose between that or'}
+{'timestamp': (1609.52, 1615.12), 'text': ' molecular gastronomy. You can transform any material into edible food with your touch,'}
+{'timestamp': (1615.12, 1618.64), 'text': ' but the more you use the power, the less you enjoy the taste of regular food,'}
+{'timestamp': (1618.64, 1622.48), 'text': ' eventually finding it bland and unsatisfying. This should be an obvious answer for you,'}
+{'timestamp': (1622.48, 1630.64), 'text': ' because you only eat bland and unsatisfying food. I feel like that was an unnecessary dig. That was pretty harsh mark three. The first power'}
+{'timestamp': (1630.64, 1635.04), 'text': " sounds more infinitely useful, but I feel like I've got more to lose. So I would take the second"}
+{'timestamp': (1635.04, 1640.8), 'text': " power for sustainability, even though I do feel like overall it's a bit weaker. All right,"}
+{'timestamp': (1640.8, 1647.5), 'text': ' molecular gastronomy it is. You can make food. Bob do you want to have the option of having the power he left behind?'}
+{'timestamp': (1647.5, 1653.2), 'text': ' I would like two new powers, please sir. You can either have ink manipulation, you can control and shape any'}
+{'timestamp': (1653.2, 1661.2), 'text': ' ink or dye even in a printed or drawn state. You can change it to whatever you want. But your skin gradually turns the color of the ink'}
+{'timestamp': (1661.2, 1663.2), 'text': ' you manipulate the most.'}
+{'timestamp': (1663.2, 1667.28), 'text': ' Coralary power question. Do I become invisible if I just spend a lot of time'}
+{'timestamp': (1667.28, 1668.86), 'text': ' manipulating invisible ink?'}
+{'timestamp': (1668.86, 1669.58), 'text': ' Possibly.'}
+{'timestamp': (1669.58, 1671.38), 'text': ' I like, I like thinking about.'}
+{'timestamp': (1671.38, 1673.18), 'text': ' Okay, other one, gravity reversal.'}
+{'timestamp': (1673.18, 1676.18), 'text': ' The ability to reverse gravity for yourself,'}
+{'timestamp': (1676.18, 1677.62), 'text': ' allowing you to walk on ceilings.'}
+{'timestamp': (1677.62, 1680.18), 'text': ' At the expense of, each use induces severe vertical'}
+{'timestamp': (1680.18, 1726.6), 'text': " lasting several hours. Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha Ah! Ah! Ah! Ah! Fuck fly! So, you know, let's go. Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh I like the drawback. I like that's a big curb to that power,"}
+{'timestamp': (1726.6, 1728.4), 'text': ' but I still feel like even having,'}
+{'timestamp': (1728.4, 1730.24), 'text': ' even as a one-off thing,'}
+{'timestamp': (1730.24, 1732.28), 'text': ' even having that as an option I really like.'}
+{'timestamp': (1732.28, 1734.76), 'text': ' So I would take gravity reversal.'}
+{'timestamp': (1734.76, 1736.56), 'text': ' Yeah, you would become effectively immune'}
+{'timestamp': (1736.56, 1740.48), 'text': ' to falls to your death because you could reverse.'}
+{'timestamp': (1740.48, 1743.0), 'text': " I don't know, you might overshoot the ledger first on,"}
+{'timestamp': (1743.0, 1744.8), 'text': ' but yeah, it could probably work in your favor.'}
+{'timestamp': (1744.8, 1747.92), 'text': " You can use your vomit as like a jet to manipulate where you're going"}
+{'timestamp': (1749.92, 1753.76), 'text': " To how sick you could get so there's a maximum point you could reach"}
+{'timestamp': (1753.76, 1759.32), 'text': ' You just have to become mentally able to overcome that and then you can do anything with gravity'}
+{'timestamp': (1759.32, 1761.32), 'text': " All right, he's picking gravity"}
+{'timestamp': (1762.0, 1766.72), 'text': ' reversal all right, wait see your. You can choose between dream weaver'}
+{'timestamp': (1767.28, 1775.2), 'text': " Enter and shape people's dreams. However, you can't control your own dreams. They become increasingly more vivid and disturbing"}
+{'timestamp': (1775.68, 1777.68), 'text': ' Okay, oh'}
+{'timestamp': (1778.96, 1784.8), 'text': " Holy shit or echo speech you can replicate any voice you've heard before perfectly"}
+{'timestamp': (1782.16, 1785.12), 'text': " or echo speech. You can replicate any voice you've heard before perfectly,"}
+{'timestamp': (1785.12, 1786.88), 'text': ' but your natural voice becomes weaker'}
+{'timestamp': (1786.88, 1788.8), 'text': ' and eventually will disappear.'}
+{'timestamp': (1788.8, 1790.64), 'text': ' Dreamweaver sounds like a lot of fun,'}
+{'timestamp': (1790.64, 1792.28), 'text': ' but I do value my sleep'}
+{'timestamp': (1792.28, 1794.64), 'text': ' and having horrible nightmarry dreams sounds terrible.'}
+{'timestamp': (1794.64, 1795.76), 'text': " I'll take the echo."}
+{'timestamp': (1795.76, 1796.6), 'text': ' Echo.'}
+{'timestamp': (1796.6, 1797.44), 'text': ' All right.'}
+{'timestamp': (1797.44, 1799.44), 'text': " Eventually you'll use your lose your own voice,"}
+{'timestamp': (1799.44, 1801.64), 'text': " but you'll, you can pick up some random person's voice"}
+{'timestamp': (1801.64, 1802.84), 'text': ' that probably sounds similar.'}
+{'timestamp': (1802.84, 1807.88), 'text': ' Bob, you can either be an emotional sponge where you absorb the emotions of others,'}
+{'timestamp': (1807.88, 1812.68), 'text': ' lessening their emotional burdens, but you experience the absorbed emotions later at random'}
+{'timestamp': (1812.68, 1814.72), 'text': ' intensified, but one time.'}
+{'timestamp': (1814.72, 1824.24), 'text': " I daily while you're in the air from your gravity, you're just a bottle of milk."}
+{'timestamp': (1824.24, 1826.56), 'text': ' Finally, puking my way through the air,'}
+{'timestamp': (1826.56, 1829.52), 'text': " I'm suddenly overcome with the horrific tragedy"}
+{'timestamp': (1829.52, 1831.68), 'text': " of that person's experience."}
+{'timestamp': (1831.68, 1833.0), 'text': ' Mm-hmm.'}
+{'timestamp': (1833.0, 1836.16), 'text': ' Oh, man, you could choose between that'}
+{'timestamp': (1836.16, 1839.36), 'text': ' and temporal artistry, ability to create art'}
+{'timestamp': (1839.36, 1843.32), 'text': " that changes based on the era it's viewed in."}
+{'timestamp': (1843.32, 1847.44), 'text': ' So any art you make will change as it moves through time,'}
+{'timestamp': (1847.44, 1849.52), 'text': ' but you become increasingly detached'}
+{'timestamp': (1849.52, 1851.04), 'text': ' from the current time period,'}
+{'timestamp': (1851.04, 1852.16), 'text': ' feeling like an outsider.'}
+{'timestamp': (1852.16, 1854.32), 'text': " I don't know if this means you're gonna live a long time,"}
+{'timestamp': (1854.32, 1855.56), 'text': " but this one's an odd one."}
+{'timestamp': (1855.56, 1858.48), 'text': " I doesn't sound like a very pleasant existence,"}
+{'timestamp': (1858.48, 1862.08), 'text': ' but I feel like I have to go all in on the pier chaos'}
+{'timestamp': (1862.08, 1864.2), 'text': " of the persona that I'm developing."}
+{'timestamp': (1864.2, 1867.6), 'text': ' I would have to take the emotional sponge.'}
+{'timestamp': (1867.6, 1871.36), 'text': " Well, what's interesting is it doesn't say you only take bad ones,"}
+{'timestamp': (1871.36, 1873.84), 'text': ' so you could be an emotional vampire,'}
+{'timestamp': (1873.84, 1877.44), 'text': " you're floating, puking, sucking up everyone's happiness."}
+{'timestamp': (1877.44, 1880.88), 'text': ' I just need to go to a lot of sporting events and root for the-'}
+{'timestamp': (1880.88, 1882.8), 'text': ' like sit in the winning team section.'}
+{'timestamp': (1882.8, 1907.04), 'text': " You're just gonna be going on randomly today, just be like, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah longer you're invisible, the longer it takes for your oxygen levels to normalize afterwards."}
+{'timestamp': (1907.04, 1912.92), 'text': " So it's like a time of the longer you hold it, the longer your recovery period afterwards."}
+{'timestamp': (1912.92, 1915.08), 'text': ' Or refractory period, if you will.'}
+{'timestamp': (1915.08, 1916.08), 'text': ' Yes.'}
+{'timestamp': (1916.08, 1917.76), 'text': ' So people can hold their breath for what?'}
+{'timestamp': (1917.76, 1919.04), 'text': ' Usually a couple minutes.'}
+{'timestamp': (1919.04, 1922.56), 'text': ' If you train it really hard, you can hold up to like 10, 15 minutes, I think.'}
+{'timestamp': (1922.56, 1929.6), 'text': ' Or you omni-glot understanding, understand any written language instantly, not speaking'}
+{'timestamp': (1929.6, 1934.52), 'text': ' written, but you start forgetting words in your native language, making communication'}
+{'timestamp': (1934.52, 1936.0), 'text': ' in it gradually more challenging.'}
+{'timestamp': (1936.0, 1939.08), 'text': " I feel like I can use my phone to kind of do that already to some extent, so I'm going"}
+{'timestamp': (1939.08, 1940.08), 'text': ' to go invisible.'}
+{'timestamp': (1940.08, 1947.2), 'text': ' All right, well here comes Mr. Emotional Vampire himself. Bob, you could choose between shadow sculpting,'}
+{'timestamp': (1947.2, 1950.56), 'text': ' the ability to change shape, or sorry,'}
+{'timestamp': (1950.56, 1955.0), 'text': ' the ability to shape and harden shadows into tangible objects.'}
+{'timestamp': (1955.0, 1958.2), 'text': ' However, you become increasingly sensitive to light,'}
+{'timestamp': (1958.2, 1961.2), 'text': ' eventually finding daylight, painful.'}
+{'timestamp': (1961.2, 1964.68), 'text': ' Or you can be a biomimic reginious,'}
+{'timestamp': (1964.68, 1967.6), 'text': ' instantly mimic the abilities of any animal'}
+{'timestamp': (1967.6, 1974.16), 'text': " you touch, but you also briefly adopt the animal's instincts and behaviors which can be socially"}
+{'timestamp': (1974.16, 1975.68), 'text': ' awkward or dangerous.'}
+{'timestamp': (1975.68, 1979.2), 'text': ' No, I feel like you know what? (Laughing)'}
+{'timestamp': (1979.2, 1981.92), 'text': ' I have a built-in defense mechanism for that.'}
+{'timestamp': (1981.92, 1986.24), 'text': ' I take the biomeicry one with the understanding'}
+{'timestamp': (1986.24, 1988.12), 'text': ' that a part of my system is,'}
+{'timestamp': (1988.12, 1990.24), 'text': " right as I'm about to touch the animal"}
+{'timestamp': (1990.24, 1991.56), 'text': ' to steal their traits.'}
+{'timestamp': (1991.56, 1993.96), 'text': ' I flip gravity like a light switch.'}
+{'timestamp': (1993.96, 1994.48), 'text': ' I just go like,'}
+{'timestamp': (1994.48, 1995.42), 'text': ' gah, gah, gah, gah, gah, gah,'}
+{'timestamp': (1995.42, 1996.54), 'text': ' like real quick.'}
+{'timestamp': (1996.54, 1998.84), 'text': ' So I do that and then I touch the animal'}
+{'timestamp': (1998.84, 2002.76), 'text': " and then I'm incapacitated with the insane vertigo"}
+{'timestamp': (2002.76, 2009.36), 'text': " until the instinct thing wears off and then I just have that animal's ability so it's it's a it's still a yeah"}
+{'timestamp': (2009.36, 2012.16), 'text': ' No, I take the biomemically thing. Yeah, yeah, all right'}
+{'timestamp': (2013.16, 2018.38), 'text': ' Just do a couple quick gravity flips get myself real sick your vertigo is going to'}
+{'timestamp': (2021.24, 2027.68), 'text': " Man, that hell of a trade off. I don't know if your body could keep taking these punishments all at once."}
+{'timestamp': (2027.68, 2029.92), 'text': " Oh, man, I don't know why you're getting the language ones."}
+{'timestamp': (2029.92, 2035.2), 'text': ' Okay, your linguistic chameleon, speak and understand any language,'}
+{'timestamp': (2035.2, 2038.16), 'text': ' but only well directly conversing with someone who is a native speaker.'}
+{'timestamp': (2038.16, 2042.24), 'text': ' But you forget how to speak that language immediately after the conversation ends.'}
+{'timestamp': (2042.24, 2043.44), 'text': ' So you can speak to anybody.'}
+{'timestamp': (2043.44, 2049.76), 'text': " You don't forget anything of your own, but you can't take it with you afterwards. Or, digital whisper,"}
+{'timestamp': (2049.76, 2055.76), 'text': ' instantly fix any software bug by touching the device. However, each fix temporarily transfers'}
+{'timestamp': (2055.76, 2059.76), 'text': ' the bugs effect to your brain, causing glitches in your perception or memory.'}
+{'timestamp': (2059.76, 2066.28), 'text': " I'll go with the first one, be going to communicate with anybody, that just seems strong. Even if I lose after a while, I don't lose the memory of talking to them."}
+{'timestamp': (2066.28, 2067.88), 'text': " I just can't do it again, but..."}
+{'timestamp': (2067.88, 2068.72), 'text': ' Bob.'}
+{'timestamp': (2069.84, 2072.2), 'text': ' Emotional amplifier.'}
+{'timestamp': (2072.2, 2073.2), 'text': ' Oh no.'}
+{'timestamp': (2073.2, 2074.2), 'text': ' Oh no.'}
+{'timestamp': (2074.2, 2077.76), 'text': ' You can intensify the emotions of those around you.'}
+{'timestamp': (2077.76, 2081.44), 'text': ' However you start to become emotionally numb,'}
+{'timestamp': (2081.44, 2084.64), 'text': ' or probability minimizer,'}
+{'timestamp': (2084.64, 2089.5), 'text': ' reduce the likelihood of minor inconveniences. It just says minor'}
+{'timestamp': (2089.84, 2098.74), 'text': " However, major inconveniences are to become slightly more likely. The thing about that is I'm I'm terribly curious to test"}
+{'timestamp': (2098.74, 2108.56), 'text': ' The bounds of what is a minor versus major inconvenience. It says, okay, the examples it gives, minor inconvenience like rain during a picnic.'}
+{'timestamp': (2108.56, 2109.84), 'text': " If we're building characters,"}
+{'timestamp': (2109.84, 2112.32), 'text': ' I guess I have to take the one that synergizes'}
+{'timestamp': (2112.32, 2114.56), 'text': ' with the rest of what I got going on here.'}
+{'timestamp': (2114.56, 2116.76), 'text': ' I have to have the emotional amplify,'}
+{'timestamp': (2116.76, 2117.6), 'text': ' because that means...'}
+{'timestamp': (2117.6, 2119.4), 'text': " That's what I'm talking about."}
+{'timestamp': (2119.4, 2122.4), 'text': ' If I could find the right group of people,'}
+{'timestamp': (2122.4, 2124.24), 'text': ' I could amplify their emotions'}
+{'timestamp': (2124.24, 2128.22), 'text': ' and then absorb the amplified version of the emotion,'}
+{'timestamp': (2128.22, 2129.14), 'text': ' theoretically.'}
+{'timestamp': (2129.14, 2130.38), 'text': " That's true."}
+{'timestamp': (2130.38, 2132.02), 'text': " It's like a drug."}
+{'timestamp': (2132.02, 2133.9), 'text': ' You gotta get more every time,'}
+{'timestamp': (2133.9, 2137.18), 'text': ' but that high keeps getting higher.'}
+{'timestamp': (2137.18, 2139.14), 'text': " Yeah, no, it's, yeah."}
+{'timestamp': (2139.14, 2142.18), 'text': " I'll consider that the end because you guys are very powerful."}
+{'timestamp': (2142.18, 2144.82), 'text': ' You have, wait, you have molecular gastronomy.'}
+{'timestamp': (2144.82, 2147.54), 'text': ' You can turn anything into food with a touch,'}
+{'timestamp': (2147.54, 2151.32), 'text': ' but the longer you use it, the less tasty things become, you lose your, everything bland'}
+{'timestamp': (2151.32, 2152.32), 'text': ' and so yeah.'}
+{'timestamp': (2152.32, 2155.84), 'text': ' You have echo speech, which is you replicate any voices perfectly.'}
+{'timestamp': (2155.84, 2160.36), 'text': ' Um, you have spectral camouflage, you can, uh, hold your breath and become invisible.'}
+{'timestamp': (2160.36, 2164.04), 'text': ' And you have linguist chameleon, uh, which means that you can talk to anybody in that'}
+{'timestamp': (2164.04, 2166.96), 'text': ' language. Bob, you have gravity reversal with Vertico.'}
+{'timestamp': (2166.96, 2168.44), 'text': " You're an emotional sponge,"}
+{'timestamp': (2168.44, 2171.08), 'text': " but you'll feel it later at random intensified."}
+{'timestamp': (2171.08, 2173.28), 'text': " You're biomemically, you can touch animals"}
+{'timestamp': (2173.28, 2175.24), 'text': ' and basically absorb their traits'}
+{'timestamp': (2175.24, 2177.24), 'text': ' and emotionally amplify.'}
+{'timestamp': (2177.24, 2180.12), 'text': ' You can make anyone have their emotions intensified'}
+{'timestamp': (2180.12, 2182.32), 'text': ' but slowly lose your own.'}
+{'timestamp': (2182.32, 2183.44), 'text': ' I have a question about this.'}
+{'timestamp': (2183.44, 2186.24), 'text': ' If he feels the emotions intensified later,'}
+{'timestamp': (2186.24, 2188.2), 'text': " but also he's emotionally becoming numb,"}
+{'timestamp': (2188.2, 2190.64), 'text': ' does that mean the numbness overrides the emotional later?'}
+{'timestamp': (2190.64, 2191.52), 'text': ' Or is it mean like,'}
+{'timestamp': (2191.52, 2193.2), 'text': " I think it's diminishing returns every time."}
+{'timestamp': (2193.2, 2194.28), 'text': ' So it will become less,'}
+{'timestamp': (2194.28, 2197.68), 'text': ' but he can counteract it with an equivalently large emotion'}
+{'timestamp': (2197.68, 2198.48), 'text': ' from someone else.'}
+{'timestamp': (2198.48, 2201.56), 'text': " And let's say the intensified is doubled or something like that."}
+{'timestamp': (2201.56, 2206.12), 'text': ' Whatever an emotion you feel is doubled later. A lot of emotional stuff, a lot of puking.'}
+{'timestamp': (2206.12, 2208.12), 'text': ' An animal thing for whatever reason.'}
+{'timestamp': (2208.12, 2210.16), 'text': ' Hey, animals feel emotion too, so.'}
+{'timestamp': (2210.16, 2212.88), 'text': ' Ooh, I could tell what, I could finally tell what emotions,'}
+{'timestamp': (2212.88, 2215.72), 'text': ' animals are feeling later, not now for later. (Laughing)'}
+{'timestamp': (2215.72, 2217.24), 'text': ' Sometimes.'}
+{'timestamp': (2217.24, 2222.0), 'text': ' At some point, like, oh man, was that a dog that was sad'}
+{'timestamp': (2222.0, 2223.48), 'text': ' or was that the gorilla?'}
+{'timestamp': (2223.48, 2225.76), 'text': " Oh no, well I's thinking about bananas."}
+{'timestamp': (2225.76, 2230.8), 'text': ' And he said so I guess I gotta assume I would think like the molecular gastronomy'}
+{'timestamp': (2231.04, 2236.7), 'text': " Might be good if you could get a touch in but Bob's gravity reversal means you're gonna have trouble doing that"}
+{'timestamp': (2236.7, 2241.38), 'text': ' Are we fighting each other? I was just thinking in general my powers feel more overall useful'}
+{'timestamp': (2241.38, 2246.72), 'text': " But Bob's feel a lot more fun and chaotic. This is prep time. This is a fight determined by prep time."}
+{'timestamp': (2246.72, 2251.72), 'text': ' If Bob can get a big enough emotional bomb to unleash on you,'}
+{'timestamp': (2252.12, 2253.56), 'text': " but you'll have to hold your,"}
+{'timestamp': (2253.56, 2255.68), 'text': " you'll be holding your breath before the fight,"}
+{'timestamp': (2255.68, 2256.8), 'text': " so he can't spot you."}
+{'timestamp': (2256.8, 2259.64), 'text': ' He might be able to sense you in your emotions,'}
+{'timestamp': (2259.64, 2263.84), 'text': " your sweet emotions, but it's all about getting that touch,"}
+{'timestamp': (2263.84, 2265.4), 'text': ' because if you can turn them into food,'}
+{'timestamp': (2265.4, 2267.28), 'text': " I feel like that's game over."}
+{'timestamp': (2267.28, 2271.48), 'text': " But if you're crippled with emotion and or you're recovering from oxygen, that's going"}
+{'timestamp': (2271.48, 2272.48), 'text': ' to be the trouble.'}
+{'timestamp': (2272.48, 2276.6), 'text': ' With prep time, I can communicate with wildlife and people around though to try to influence'}
+{'timestamp': (2276.6, 2280.36), 'text': ' their emotions ahead of time to give Bob an emotional bomb.'}
+{'timestamp': (2280.36, 2284.4), 'text': ' It just says linguistic chameleon, which I think is languages.'}
+{'timestamp': (2284.4, 2287.08), 'text': ' You have to speak with a native language then just people nearby'}
+{'timestamp': (2287.08, 2291.0), 'text': ' I can commute with people nearby and give them like some emotional baggage'}
+{'timestamp': (2291.0, 2299.72), 'text': " But I don't know Bob can win but also lose horribly or he could win then lose horribly what if what if Bob conjures up a horny bomb"}
+{'timestamp': (2300.04, 2310.56), 'text': ' Congrats, you just made way so this one I feel like because Bob, you will be floating, but the vertigo does last quite a while, so you gotta be careful.'}
+{'timestamp': (2310.56, 2317.68), 'text': " It's all about prep for me, I think. I don't know if the gravity, if the gravity switches really the thing I use and the heat of the battle."}
+{'timestamp': (2317.68, 2325.12), 'text': ' I feel like the thing that the crux for me is what animals powers do I bring to the battle? I would need to pick like a good,'}
+{'timestamp': (2325.12, 2331.92), 'text': ' like if I got like a hawk and I get their traits, does that mean I can fly like a hawk?'}
+{'timestamp': (2331.92, 2335.6), 'text': " I would assume yes because it combos with your power, however I don't know about its"}
+{'timestamp': (2335.6, 2339.52), 'text': " a vertigo resistance, but I would think pretty high because they're flying, so yeah you"}
+{'timestamp': (2339.52, 2346.68), 'text': ' would get an animal that has a lot of vertigo resistance. If you can get a big enough, like, I guess sadness bomb would really be the one.'}
+{'timestamp': (2346.68, 2348.6), 'text': ' I guess you could also have a gun.'}
+{'timestamp': (2348.6, 2350.08), 'text': " I don't know what this is. (Laughing)"}
+{'timestamp': (2350.08, 2351.4), 'text': ' You could have a gun.'}
+{'timestamp': (2351.4, 2353.8), 'text': ' Just show up with the gun.'}
+{'timestamp': (2353.8, 2355.8), 'text': " I mean, I wouldn't want to just be out the open, right?"}
+{'timestamp': (2355.8, 2356.8), 'text': " The pins where we're fighting too,"}
+{'timestamp': (2356.8, 2358.28), 'text': " because I'd want to get him contained in a place"}
+{'timestamp': (2358.28, 2365.1), 'text': " that neutralizes his flying abilities. Is he, man Man, you guys really don't have any killer powers, so it really comes down to..."}
+{'timestamp': (2365.1, 2366.4), 'text': ' I could feed him?'}
+{'timestamp': (2366.4, 2374.4), 'text': ' I think my strategy would either be the animal, or I would have to create the spark of a negative emotion and wade,'}
+{'timestamp': (2374.4, 2380.0), 'text': " and latch onto that and amplify it until he just couldn't... he couldn't deal with it anymore."}
+{'timestamp': (2380.0, 2385.08), 'text': ' Is hunger an emotion because if you give him a big enough hunger bomb and then doubly'}
+{'timestamp': (2385.08, 2389.4), 'text': ' He might be tempted to turn himself into food or anything around him into food'}
+{'timestamp': (2389.4, 2392.64), 'text': ' You could definitely be hangry which might get you there'}
+{'timestamp': (2392.64, 2397.44), 'text': " But if I'm invisible like I could win in the short term if I could get catch you off guard by being invisible"}
+{'timestamp': (2397.44, 2400.4), 'text': ' And just like popping you cuz none of us have like any kind of resistance'}
+{'timestamp': (2400.4, 2405.12), 'text': ' But I feel like he would sense your emotions. I think the thing would be setting, right?'}
+{'timestamp': (2405.12, 2410.0), 'text': ' If I was in a place where it was isolated and I could tell there was an emotion around me,'}
+{'timestamp': (2410.0, 2413.84), 'text': " I would know it was you because there's nothing else around or whatever."}
+{'timestamp': (2413.84, 2418.56), 'text': " But if I were in like a crowd, yeah, I don't think I could sense you versus anyone else."}
+{'timestamp': (2418.56, 2421.6), 'text': ' So I really would have to be super careful on setting.'}
+{'timestamp': (2421.6, 2425.2), 'text': " I'm not sure our powers are really defined to dole each other."}
+{'timestamp': (2425.2, 2426.24), 'text': " We're kind of just like..."}
+{'timestamp': (2426.24, 2428.56), 'text': " No, you're the perfect matchup."}
+{'timestamp': (2428.56, 2431.2), 'text': " You're the perfect matchup to fight each other."}
+{'timestamp': (2431.2, 2432.4), 'text': ' This is really it.'}
+{'timestamp': (2432.96, 2435.92), 'text': " So I think it's just like, yeah, it comes down to setting."}
+{'timestamp': (2435.92, 2438.88), 'text': ' If Bob has open spaces with high ledges, he wins,'}
+{'timestamp': (2438.88, 2440.72), 'text': ' like an inner city, but that might work...'}
+{'timestamp': (2440.72, 2448.72), 'text': ' No, then he has a lot of emotional people to know what you guys picture But I picture me going around like invisible like making food like on the run surviving'}
+{'timestamp': (2448.72, 2452.24), 'text': ' I picture Bob fucking flip flopping through the air vomiting'}
+{'timestamp': (2452.24, 2456.08), 'text': " Like flies around and everyone's like yeah, oh yeah"}
+{'timestamp': (2459.4, 2461.4), 'text': " Yeah, no, I'm very tumultuous"}
+{'timestamp': (2462.24, 2466.72), 'text': " Character in this universe watching him would be like watching a propeller's..."}
+{'timestamp': (2466.72, 2469.36), 'text': ' ...as he just...'}
+{'timestamp': (2469.36, 2472.16), 'text': ' ...takes his gravity constantly to fly.'}
+{'timestamp': (2472.16, 2473.64), 'text': " Yeah, it'd be fine, it'd be great."}
+{'timestamp': (2473.64, 2485.88), 'text': " It just... AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH but he's got the fire extinguisher. It's like that, but with vomit. Oh, I mean, that's the thing, Mark,"}
+{'timestamp': (2485.88, 2487.48), 'text': ' you have to decide who wins.'}
+{'timestamp': (2487.48, 2491.28), 'text': ' I feel like Wade and I are both built quite the characters,'}
+{'timestamp': (2491.28, 2494.88), 'text': " but it's on you to pick the ultimate winner, I guess."}
+{'timestamp': (2494.88, 2497.88), 'text': " I'll let Chate G.P.T. figure this out."}
+{'timestamp': (2497.88, 2498.48), 'text': ' All right.'}
+{'timestamp': (2498.48, 2508.72), 'text': " In the Quaint Town Square, where the cobblestone's echoed with history and the air buzzed with the chatter of locals, an unusual confrontation was set to unfold. Wade, known for his unique set of abilities,"}
+{'timestamp': (2508.72, 2513.68), 'text': ' was preparing to face off against Bob, an adversary with equally formidable powers.'}
+{'timestamp': (2513.68, 2518.96), 'text': ' Wade utilizing his molecular astronomy had already transformed nearby objects into edible substances,'}
+{'timestamp': (2518.96, 2524.96), 'text': ' creating an array of bizarre but strategic distractions. His echo speech allowed him to mimic voices'}
+{'timestamp': (2524.96, 2526.6), 'text': ' from the crowd causing confusion.'}
+{'timestamp': (2526.6, 2528.12), 'text': ' I had forgotten about that.'}
+{'timestamp': (2528.12, 2532.28), 'text': ' Meanwhile his spectral camouflage rendered him invisible ghostly predator among the unspecting'}
+{'timestamp': (2532.28, 2533.28), 'text': ' townspeople.'}
+{'timestamp': (2533.28, 2536.68), 'text': ' The linguistic melee and ability kept him in tune with the multilingual murmurs of the'}
+{'timestamp': (2536.68, 2539.88), 'text': ' crowd ready to use any piece of information to his advantage.'}
+{'timestamp': (2539.88, 2548.46), 'text': " Bob on the other hand was already feeling the initial pangs of Vertico as he covered a bull to pull the crap and you take care of it and you're a"}
+{'timestamp': (2548.46, 2553.64), 'text': " virtual. The disorientation didn't determine,"}
+{'timestamp': (2553.64, 2558.94), 'text': ' he was determined to locate Wade, his emotional sprung ability absorbs the'}
+{'timestamp': (2558.94, 2564.22), 'text': ' collective excitement, anxiety of the crowd, fueling his resolve. The biomemically'}
+{'timestamp': (2564.22, 2565.68), 'text': ' genius power granted him'}
+{'timestamp': (2565.68, 2572.2), 'text': ' the agility of a cat in the keen senses of a hawk, aiding in his search. His trump card'}
+{'timestamp': (2572.2, 2578.4), 'text': ' and emotion bomb, cram-fitted using emotional amplifier, was primed to unleash a wave of'}
+{'timestamp': (2578.4, 2584.24), 'text': " overwhelming feelings to incapacitate Wade. The square, alive with the festival's spirits,"}
+{'timestamp': (2584.24, 2585.68), 'text': ' was obviously oblivious'}
+{'timestamp': (2585.68, 2590.48), 'text': ' to the impending clash. Wade invisible and silent maneuvered through the crowd his sense'}
+{'timestamp': (2590.48, 2596.24), 'text': ' is alert. He could taste the tension in the air, a flavor created by his own powers, slightly'}
+{'timestamp': (2596.24, 2603.04), 'text': ' nauseating due to his overuse of molecular gastro. I love the chetchy pinos, we overuse that'}
+{'timestamp': (2603.04, 2605.48), 'text': ' power, all the things would just abuse it.'}
+{'timestamp': (2605.48, 2606.88), 'text': ' Hey, everyone else loves it.'}
+{'timestamp': (2606.88, 2608.48), 'text': ' It just sucks for me, you know.'}
+{'timestamp': (2608.48, 2611.48), 'text': " Bob's struggling to maintain altitude scanned the area."}
+{'timestamp': (2611.48, 2613.16), 'text': ' His vertigo was worsening.'}
+{'timestamp': (2613.16, 2617.0), 'text': " The world's spinning around him, yet his determination was fueled by the emotions he"}
+{'timestamp': (2617.0, 2620.12), 'text': ' observed, converting anxiety into focus.'}
+{'timestamp': (2620.12, 2625.08), 'text': " Suddenly, Bob spotted a distortion in the air, a sign of Wade's invisibility."}
+{'timestamp': (2625.08, 2627.84), 'text': ' He dove towards it, ready to release the emotion bomb.'}
+{'timestamp': (2627.84, 2632.28), 'text': ' Wade sensing the approach through the vibrations in the air and the shift in language is'}
+{'timestamp': (2632.28, 2633.28), 'text': ' braced himself.'}
+{'timestamp': (2633.28, 2636.28), 'text': ' My god, is that Bob-ish?'}
+{'timestamp': (2636.28, 2642.4), 'text': ' As everyone became frightened, they started talking in French.'}
+{'timestamp': (2642.4, 2644.12), 'text': ' Whoa, wait a minute.'}
+{'timestamp': (2644.12, 2646.52), 'text': ' As Bob unleashed the wave of emotions,'}
+{'timestamp': (2646.52, 2649.88), 'text': " Wade's linguistic chameleonability unexpectedly acted"}
+{'timestamp': (2649.88, 2653.2), 'text': ' as a buffer, the myriad languages in his mind'}
+{'timestamp': (2653.2, 2657.08), 'text': ' creating a barrier against the full impact of the bomb.'}
+{'timestamp': (2657.08, 2660.0), 'text': " I'm imagining because it spins off some emotions"}
+{'timestamp': (2660.0, 2663.04), 'text': ' into other languages, so different comprehensions of,'}
+{'timestamp': (2663.04, 2664.48), 'text': " I don't know, that's fun."}
+{'timestamp': (2664.48, 2666.64), 'text': ' Wade reappeared slightly days, but still in the fight.'}
+{'timestamp': (2666.64, 2669.92), 'text': ' He mimicked the voice of a child in the crowd, distracting Bob.'}
+{'timestamp': (2669.92, 2670.92), 'text': ' Bob?'}
+{'timestamp': (2670.92, 2675.32), 'text': ' Now fighting severe vertigo, and disoriented by the unexpected voice, struggled to focus.'}
+{'timestamp': (2675.32, 2680.64), 'text': " Wade seized this moment, using molecular gastronomy to turn the ground beneath Bob's feet"}
+{'timestamp': (2680.64, 2683.52), 'text': ' into a slippery gelatinous substance.'}
+{'timestamp': (2683.52, 2686.0), 'text': ' Bob unable to maintain his balance,'}
+{'timestamp': (2686.0, 2688.0), 'text': ' crashed to the ground, the impact jarring him,'}
+{'timestamp': (2688.0, 2690.16), 'text': ' weighed approach, ready to end the confrontation,'}
+{'timestamp': (2690.16, 2692.88), 'text': ' but as he drew near, Bob in a desperate move,'}
+{'timestamp': (2692.88, 2696.18), 'text': ' imitated the strength of a bear with his biomimicry,'}
+{'timestamp': (2696.18, 2699.0), 'text': ' lunged at Wade, knocking him off balance.'}
+{'timestamp': (2699.0, 2701.64), 'text': ' The two grappled, powers clashing in a spectacle'}
+{'timestamp': (2701.64, 2704.64), 'text': ' that left the crowd bewildered and frightened,'}
+{'timestamp': (2704.64, 2705.76), 'text': ' but as the struggle continued,'}
+{'timestamp': (2705.76, 2710.32), 'text': ' it became clear that the constant use of their powers was taking its tolls. Ways taste buds were'}
+{'timestamp': (2710.32, 2715.76), 'text': ' numbed, and his voice was a mirror whisper. Bob, overwhelmed by the absorbed emotions and dizzy'}
+{'timestamp': (2715.76, 2720.4), 'text': ' from gravity, was barely able to stand. In the end, it was not the strength of their power, but'}
+{'timestamp': (2720.4, 2728.92), 'text': ' the resiliency of their human spirit that determined the outcome. Wade, recognizing the futility of the fight and the harm it was causing, decided to withdraw.'}
+{'timestamp': (2728.92, 2733.54), 'text': ' Using his spectral camouflage one last time, he vanished from sight, leaving a bit wildered'}
+{'timestamp': (2733.54, 2736.96), 'text': ' and weary Bob amidst the confused but unharmed crowd.'}
+{'timestamp': (2736.96, 2741.44), 'text': ' The battle ended not with a definitive victor, but with the realization that sometimes the'}
+{'timestamp': (2741.44, 2746.6), 'text': ' greatest strength lies in choosing not to fight. Well, they were as good as thinking about as we were.'}
+{'timestamp': (2746.6, 2748.6), 'text': ' Thanks a lot, ChatGPT.'}
+{'timestamp': (2748.6, 2752.32), 'text': ' Yeah, well, kind of nothing burger bullshit.'}
+{'timestamp': (2752.32, 2757.04), 'text': ' Man, what a tease. We got all the way through that. You bear kicked me. I...'}
+{'timestamp': (2757.04, 2758.44), 'text': ' Fooded your feet?'}
+{'timestamp': (2758.44, 2762.68), 'text': " I knew that that's the end of Act One. Finish the movie, ChatGPT."}
+{'timestamp': (2762.68, 2766.22), 'text': ' Yeah, I just asked it. I said, aw, come on, pick a winner.'}
+{'timestamp': (2766.22, 2770.2), 'text': ' Seizing the moment, Bob channeling the strength of a bear, charge towards weight,'}
+{'timestamp': (2770.2, 2772.24), 'text': ' weight reeling from the emotional onslaught.'}
+{'timestamp': (2772.24, 2774.32), 'text': ' Oh, you send another emotion, Bob.'}
+{'timestamp': (2774.32, 2776.92), 'text': ' Bob reached weight just as he just turned invisible again.'}
+{'timestamp': (2776.92, 2787.42), 'text': ' He struck with the full force of the bear, catching weight off guard, impact his powerful enough to knock him to the ground, rendering him disoriented, unable to effectively use his power, Bob standing over how to clear advantage, although struggling'}
+{'timestamp': (2787.42, 2792.88), 'text': ' with zone downsides, severe vertigo and emotional overload, Bob managed to land a decisive'}
+{'timestamp': (2792.88, 2793.88), 'text': ' blow though.'}
+{'timestamp': (2793.88, 2796.92), 'text': ' He grab Wade, neutralizing his remaining resistance.'}
+{'timestamp': (2796.92, 2797.92), 'text': " That's it."}
+{'timestamp': (2797.92, 2799.96), 'text': ' Alright Bob, you win.'}
+{'timestamp': (2799.96, 2803.16), 'text': ' Fer- Ferris Faire, I guess?'}
+{'timestamp': (2803.16, 2805.52), 'text': " I don't know. I mean, I think it's right."}
+{'timestamp': (2805.52, 2807.96), 'text': " It's like, this is a weirdly even matchup"}
+{'timestamp': (2807.96, 2810.12), 'text': " and we don't know why you're fighting in the first place."}
+{'timestamp': (2810.12, 2812.84), 'text': ' Like, I feel like, again, my advantage would come early.'}
+{'timestamp': (2812.84, 2814.24), 'text': " If I don't finish it early,"}
+{'timestamp': (2814.24, 2815.8), 'text': ' the pain on house severe year vertigo'}
+{'timestamp': (2815.8, 2818.92), 'text': ' or emotional stuff gets like your animal powers'}
+{'timestamp': (2818.92, 2821.28), 'text': ' and also just your abilities are stronger.'}
+{'timestamp': (2821.28, 2828.56), 'text': " It's just, I rely more on staying hidden if once you find me you would have the advantage as long as you aren't just vomiting and emotional pain."}
+{'timestamp': (2828.56, 2832.48), 'text': ' It should have had you turn the ground into a canole and then I would got stuck'}
+{'timestamp': (2832.48, 2836.0), 'text': ' inside of it. Turns out my real weakness this whole time was bears.'}
+{'timestamp': (2836.0, 2842.08), 'text': " Yeah. You weren't ready for bears, were you? I was ready for everything else but as (Laughing)"}
+{'timestamp': (2842.08, 2845.4), 'text': ' soon as you had bear power I was done for. Yeah yeah wow as soon as you had bare power, I was done for yeah, yeah'}
+{'timestamp': (2846.52, 2848.52), 'text': ' Well Bob you win I guess I'}
+{'timestamp': (2849.2, 2853.72), 'text': ' Certainly earned it yep. Do I end this episode? I was the winner'}
+{'timestamp': (2853.72, 2859.04), 'text': ' Yeah, I have to take on the responsible alright. Thank you so much for joining me on this mini portion'}
+{'timestamp': (2859.04, 2866.48), 'text': " I'm ending both my mini portion and the episode because why not watch out for Bob hovering and puking above you? Hard to miss, hard to miss."}
+{'timestamp': (2866.48, 2869.6), 'text': " You might be into it, depends what kind of emotions you're feeling at the time."}
+{'timestamp': (2869.6, 2871.04), 'text': ' Bob, winter speech I guess?'}
+{'timestamp': (2871.04, 2875.04), 'text': " Yeah, I mean, I really like the characters I built. I'm glad I don't actually have to live with"}
+{'timestamp': (2875.04, 2885.36), 'text': " those powers, but I think that's a hilarious combination of things that if the animal thing works the way the JGBT said it was, it was clearly a little overpowered I think, but yeah, I'll take it,"}
+{'timestamp': (2885.36, 2892.64), 'text': " I'll take it. That's a happy chance. That's a good fight, I guess. Wade and Han Shakes all around"}
+{'timestamp': (2892.64, 2899.52), 'text': " and Mark, that's four. Alright, Wade, loser speech. Thank you guys for playing along and Bob"}
+{'timestamp': (2899.52, 2908.4), 'text': " congrats on two wins today. That's pretty amazing. To get a win from both of the other hosts in the same episode, it's a pretty powerful never before done things so you've accomplished the impossible."}
+{'timestamp': (2909.04, 2914.56), 'text': ' So congrats to you on that. I have no reservations. I think we put it all out there and it turns out'}
+{'timestamp': (2914.56, 2926.4), 'text': " bear wins. Thank you for listening and or watching. If you're confused, we're not. Okay, sound."}
